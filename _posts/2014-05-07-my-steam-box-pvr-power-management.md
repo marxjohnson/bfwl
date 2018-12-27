@@ -4,7 +4,7 @@ title: 'My Steam Box &#8211; PVR power management'
 date: 2014-05-07T20:00:50+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=220
+guid: https://barrenfrozenwasteland.com/?p=220
 permalink: /2014/05/my-steam-box-pvr-power-management/
 categories:
   - HTPC

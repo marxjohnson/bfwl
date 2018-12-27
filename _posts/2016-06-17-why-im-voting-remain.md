@@ -4,7 +4,7 @@ title: 'Why I&#8217;m voting &#8220;remain&#8221;'
 date: 2016-06-17T19:15:56+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=290
+guid: https://barrenfrozenwasteland.com/?p=290
 permalink: /2016/06/why-im-voting-remain/
 ---
 First up, I&#8217;m not an expert on the UK&#8217;s relationship with the EU. Let&#8217;s face it, who is? I got a B in A-level politics about 10 years ago, so I have a general understanding of the mechanism by which EU law effects us, but that&#8217;s about as far as it goes.

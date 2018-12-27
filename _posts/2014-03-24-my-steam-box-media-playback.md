@@ -4,7 +4,7 @@ title: 'My Steam Box &#8211; Media Playback'
 date: 2014-03-24T11:00:50+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=202
+guid: https://barrenfrozenwasteland.com/?p=202
 permalink: /2014/03/my-steam-box-media-playback/
 categories:
   - HTPC

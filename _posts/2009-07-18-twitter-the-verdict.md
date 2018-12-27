@@ -4,7 +4,7 @@ title: 'Twitter: The verdict'
 date: 2009-07-18T13:02:05+00:00
 author: mark
 excerpt: |
-  So back in February I wrote <a href="http://barrenfrozenwasteland.com/index.php?q=node/2">a post</a> about Twitter, and why I was joining. That was 5 months ago now, so here's the conclusions I've drawn.
+  So back in February I wrote <a href="/index.php?q=node/2">a post</a> about Twitter, and why I was joining. That was 5 months ago now, so here's the conclusions I've drawn.
   
   <h2>Trends</h2>
   When I started, you were able to search keywords and view trending topics (the words/phrases that featured the most) on a subdomain, search.twitter.com. This has since been moved to a sidebar on the main site. Terrible idea. This has generated to end of spam and pointless bandwagoning. Not only do you get people posting relentlessly to get their tag on the trending topics list, but you actually get people who write a post consisting entirely of trending phrases then saying "Follow me plz!!". If I follow someone, it's because I find them amusing, interesting or informative, not coz they post bollocks. Go away.
@@ -33,7 +33,7 @@ excerpt: |
 layout: post
 permalink: /2009/07/twitter-the-verdict/
 ---
-So back in February I wrote [a post](http://barrenfrozenwasteland.com/index.php?q=node/2) about Twitter, and why I was joining. That was 5 months ago now, so here&#8217;s the conclusions I&#8217;ve drawn.
+So back in February I wrote [a post](/index.php?q=node/2) about Twitter, and why I was joining. That was 5 months ago now, so here&#8217;s the conclusions I&#8217;ve drawn.
 
 ## Trends
 

@@ -4,7 +4,7 @@ title: That was the OggCamp that was
 date: 2012-08-22T21:08:24+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=114
+guid: https://barrenfrozenwasteland.com/?p=114
 permalink: /2012/08/that-was-the-oggcamp-that-was/
 ---
 Last weekend was the 4th [OggCamp](http://oggcamp.org) &#8211; a free culture unconference organised by [Linux Outlaws](http://sixgun.org) and the [Ubuntu UK Podcast](http://podcast.ubuntu-uk.org), along with some co-conspirators.

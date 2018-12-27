@@ -4,7 +4,7 @@ title: SteamOS first impressions
 date: 2013-12-14T14:56:53+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=175
+guid: https://barrenfrozenwasteland.com/?p=175
 permalink: /2013/12/steamos-first-impressions/
 ---
 Being the casual gamer and general geek that I am, I&#8217;m currently planning to build a living room PC, primarily for gaming. My current conundrum is, will it be running [Ubuntu](http://ubuntu.com) with Steam installed, or will it be running [SteamOS](http://store.steampowered.com/livingroom/SteamOS/)? This week [Valve released SteamOS for download](http://steamcommunity.com/groups/steamuniverse/discussions/1/648814395741989999/), so I popped it on a spare hard drive to take my first steps in answering this question. Here&#8217;s how I got on&#8230;

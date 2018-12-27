@@ -4,7 +4,7 @@ title: Self-hosted cloud
 date: 2011-07-07T17:27:09+00:00
 author: mark
 excerpt: |
-  So now I've got my <a href="http://barrenfrozenwasteland.com/?q=node/33">Microserver</a> set up, I've got a machine in my own house, which is always on, and provides me with some peace of mind that data I put on it wont get lost as the result of a single hardware mishap.
+  So now I've got my <a href="/?q=node/33">Microserver</a> set up, I've got a machine in my own house, which is always on, and provides me with some peace of mind that data I put on it wont get lost as the result of a single hardware mishap.
   
   A while ago I experimented with <a href="https://secure.wikimedia.org/wikipedia/en/wiki/Dynamic_dns">Dynamic DNS</a>, a system which allows you to direct a hostname to a dynamic IP address used for your home connection.  This means that, even though your IP address changes, you can always access it through the same human readable address.
   
@@ -14,7 +14,7 @@ excerpt: |
 layout: post
 permalink: /2011/07/self-hosted-cloud/
 ---
-So now I&#8217;ve got my [Microserver](http://barrenfrozenwasteland.com/?q=node/33) set up, I&#8217;ve got a machine in my own house, which is always on, and provides me with some peace of mind that data I put on it wont get lost as the result of a single hardware mishap.
+So now I&#8217;ve got my [Microserver](/?q=node/33) set up, I&#8217;ve got a machine in my own house, which is always on, and provides me with some peace of mind that data I put on it wont get lost as the result of a single hardware mishap.
 
 A while ago I experimented with [Dynamic DNS](https://secure.wikimedia.org/wikipedia/en/wiki/Dynamic_dns), a system which allows you to direct a hostname to a dynamic IP address used for your home connection. This means that, even though your IP address changes, you can always access it through the same human readable address.
 

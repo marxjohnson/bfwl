@@ -4,7 +4,7 @@ title: 'My Steam Box &#8211; OS and Software'
 date: 2014-03-23T11:00:27+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=199
+guid: https://barrenfrozenwasteland.com/?p=199
 permalink: /2014/03/my-steam-box-os-and-software/
 categories:
   - HTPC

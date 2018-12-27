@@ -4,10 +4,10 @@ title: Dual-booting Android and Ubuntu Touch on the Nexus 7
 date: 2013-03-17T10:55:03+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=145
+guid: https://barrenfrozenwasteland.com/?p=145
 permalink: /2013/03/dual-booting-android-and-ubuntu-touch-on-the-nexus-7/
 ---
-Since I wrote [a silly app in QML](http://barrenfrozenwasteland.com/2013/01/jonoboard-now-with-100-more-ubuntu/) I&#8217;ve been keen to have a play around with Ubuntu&#8217;s developer preview for tablets (variously referred to as &#8220;Ubuntu Touch&#8221; and &#8220;phablet&#8221; (phone/tablet)). I have both a Nexus 7 tablet and a Nexus 4 phone which the images support. The trouble is, the images are designed to be run on &#8220;spare devices&#8221; &#8211; there&#8217;s no support for backing up and restoring an existing Android ROM. I&#8217;m not the kind of person who has a spare tablet or smartphone lying around, I use mine a lot, so I&#8217;ve been shying away from trying it out.
+Since I wrote [a silly app in QML](/2013/01/jonoboard-now-with-100-more-ubuntu/) I&#8217;ve been keen to have a play around with Ubuntu&#8217;s developer preview for tablets (variously referred to as &#8220;Ubuntu Touch&#8221; and &#8220;phablet&#8221; (phone/tablet)). I have both a Nexus 7 tablet and a Nexus 4 phone which the images support. The trouble is, the images are designed to be run on &#8220;spare devices&#8221; &#8211; there&#8217;s no support for backing up and restoring an existing Android ROM. I&#8217;m not the kind of person who has a spare tablet or smartphone lying around, I use mine a lot, so I&#8217;ve been shying away from trying it out.
 
 **Note: The current Ubuntu Touch images are definitely a _Developer Preview_. Not much actually works other than the web browser, it&#8217;s just to give you a feel for the interface and let you try out apps you&#8217;re writing on a touch screen. If you&#8217;re hoping this blog post will tell you how to dual-boot 2 usable systems, I&#8217;m afraid you&#8217;ll be disappointed. Maybe in 6 months.**
 

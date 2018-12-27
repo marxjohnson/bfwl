@@ -4,7 +4,7 @@ title: Blu-Ray playback with Kodi
 date: 2016-11-27T22:27:18+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=295
+guid: https://barrenfrozenwasteland.com/?p=295
 permalink: /2016/11/blu-ray-playback-with-kodi/
 categories:
   - HTPC

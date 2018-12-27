@@ -4,7 +4,7 @@ title: Converting Drupal 6 to WordPress
 date: 2012-08-04T15:20:45+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=52
+guid: https://barrenfrozenwasteland.com/?p=52
 permalink: /2012/08/converting-drupal-6-to-wordpress/
 ---
 I&#8217;ve just moved my blog from [Drupal](http://drupal.org) 6 to [WordPress](http://wordpress.org). There&#8217;s several reasons for this:

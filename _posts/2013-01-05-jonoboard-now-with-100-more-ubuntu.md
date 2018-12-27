@@ -4,7 +4,7 @@ title: 'JonoBoard &#8211; Now with 100% More Ubuntu!'
 date: 2013-01-05T18:49:24+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=136
+guid: https://barrenfrozenwasteland.com/?p=136
 permalink: /2013/01/jonoboard-now-with-100-more-ubuntu/
 ---
 So you&#8217;re loving JonoBoard, the smash hit Jono Bacon sound board for Android, but Ubuntu Phone is on the horizon!  How will you get your Jono Bacon audio fix on this shiny new platform? Fear not, for JonoBoard has now been ported to QML, the development framework for Ubuntu Phone apps!

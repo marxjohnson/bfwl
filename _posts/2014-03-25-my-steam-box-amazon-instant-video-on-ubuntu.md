@@ -4,7 +4,7 @@ title: 'My Steam Box &#8211; Amazon Instant Video on Ubuntu'
 date: 2014-03-25T11:00:16+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=204
+guid: https://barrenfrozenwasteland.com/?p=204
 permalink: /2014/03/my-steam-box-amazon-instant-video-on-ubuntu/
 categories:
   - HTPC

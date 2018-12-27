@@ -4,7 +4,7 @@ title: Diversity at OggCamp
 date: 2014-10-06T16:56:58+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=235
+guid: https://barrenfrozenwasteland.com/?p=235
 permalink: /2014/10/diversity-at-oggcamp/
 ---
 _Important note: This is a personal blog post on my personal blog. While I was largely responsible for the organisation of this year&#8217;s OggCamp, there is no formal organisation called &#8220;OggCamp&#8221;, and this post is intended to communicate my personal thoughts on these issues, not those of anyone else involved in past, present or future OggCamp events. At this point there are no plans regarding an OggCamp in 2015, as to where it will be, who will organise it, when or even whether it will happen.

@@ -4,7 +4,7 @@ title: Migrating Lastpass to pass password store
 date: 2015-06-16T12:48:43+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=253
+guid: https://barrenfrozenwasteland.com/?p=253
 permalink: /2015/06/migrating-lastpass-to-pass-password-store/
 ---
 I&#8217;ve been a [Lastpass](http://lastpass.com) customer for several years, and it&#8217;s been pretty much the only service I&#8217;ve used which stores my data on someone else&#8217;s servers (albeit encrypted).  I&#8217;ve never been particualrly happy with this, but haven&#8217;t found a solution that allows me to access to my passwords easily from multiple devices across multiple platforms, so have stuck with it until now.
@@ -27,7 +27,7 @@ In Password Store, I set up the Git repository and synced down my passwords.  I
 
 ## Windows
 
-**Update:** I&#8217;ve since worked out how to set up pass properly on Windows, including the Firefox extension.  [See this post for a full guide](http://barrenfrozenwasteland.com/2015/06/configuring-pass-on-windows/).
+**Update:** I&#8217;ve since worked out how to set up pass properly on Windows, including the Firefox extension.  [See this post for a full guide](/2015/06/configuring-pass-on-windows/).
 
 There are several solutions for Windows, none of them are as complete as the Linux equivalents yet (for example, no Firefox plugin).  However, you can get a similar copy-to-clipboard-then-auto-delete workflow like on Android.
 

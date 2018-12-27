@@ -4,7 +4,7 @@ title: Setting up a Steam Controller on Ubuntu
 date: 2015-10-24T15:11:11+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=270
+guid: https://barrenfrozenwasteland.com/?p=270
 permalink: /2015/10/setting-up-a-steam-controller-on-ubuntu/
 categories:
   - HTPC

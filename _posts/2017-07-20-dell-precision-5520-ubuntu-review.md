@@ -4,7 +4,7 @@ title: Dell Precision 5520 Ubuntu Review
 date: 2017-07-20T15:00:37+00:00
 author: mark
 layout: post
-guid: http://barrenfrozenwasteland.com/?p=326
+guid: https://barrenfrozenwasteland.com/?p=326
 permalink: /2017/07/dell-precision-5520-ubuntu-review/
 ---
 Dell kindly sent me a [Precision 5520](http://www.dell.com/uk/business/p/precision-15-5520-laptop/pd?oc=xctop5520emea) to review for the [Ubuntu Podcast](http://ubuntupodcast.org/). This post goes into detail about some things we couldn&#8217;t fit in the show.
