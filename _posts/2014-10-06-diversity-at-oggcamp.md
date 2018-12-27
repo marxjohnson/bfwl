@@ -15,7 +15,7 @@ _
 
 <div class="storify" style="height: 20em; overflow-y: scroll;">
   <noscript>
-    [<a href="//storify.com/marxjohnson/diversity-at-oggcamp" target="_blank">View the story &#8220;Diversity at OggCamp&#8221; on Storify</a>]
+    [<a href="{{ /storify.com/marxjohnson/diversity-at-oggcamp | prepend: site.baseurl }}" target="_blank">View the story &#8220;Diversity at OggCamp&#8221; on Storify</a>]
   </noscript>
 </div>
 

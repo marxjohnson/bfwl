@@ -19,7 +19,7 @@ The promise of [the Steam Controller](http://store.steampowered.com/universe/con
 ## The hardware
 
 <div id="attachment_279" style="width: 810px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2015/10/steamcontroller.jpg"><img class="wp-image-279 size-full" src="/wp-content/uploads/2015/10/steamcontroller.jpg" alt="A steam controller in its box." width="800" height="529" /></a>
+  <a href="{{ /wp-content/uploads/2015/10/steamcontroller.jpg | prepend: site.baseurl }}"><img class="wp-image-279 size-full" src="{{ /wp-content/uploads/2015/10/steamcontroller.jpg | prepend: site.baseurl }}" alt="A steam controller in its box." width="800" height="529" /></a>
   
   <p class="wp-caption-text">
     The Steam Controller
@@ -48,7 +48,7 @@ None of these features is in itself revolutionary, but the way they&#8217;re use
 The Steam Controller is not a gamepad.  It&#8217;s an input device that can be used to emulate a gamepad, a mouse, a keyboard, or bits of each at the same time.
 
 <div id="attachment_278" style="width: 810px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2015/10/steamconfig.png"><img class="wp-image-278 size-full" src="/wp-content/uploads/2015/10/steamconfig.png" alt="A screenshot of the controller configuration interface from Steam Big Picture Mode." width="800" height="450" srcset="/wp-content/uploads/2015/10/steamconfig.png 800w, /wp-content/uploads/2015/10/steamconfig-300x169.png 300w, /wp-content/uploads/2015/10/steamconfig-250x141.png 250w, /wp-content/uploads/2015/10/steamconfig-150x84.png 150w" sizes="(max-width: 800px) 100vw, 800px" /></a>
+  <a href="{{ /wp-content/uploads/2015/10/steamconfig.png | prepend: site.baseurl }}"><img class="wp-image-278 size-full" src="{{ /wp-content/uploads/2015/10/steamconfig.png | prepend: site.baseurl }}" alt="A screenshot of the controller configuration interface from Steam Big Picture Mode." width="800" height="450" srcset="/wp-content/uploads/2015/10/steamconfig.png 800w, /wp-content/uploads/2015/10/steamconfig-300x169.png 300w, /wp-content/uploads/2015/10/steamconfig-250x141.png 250w, /wp-content/uploads/2015/10/steamconfig-150x84.png 150w" sizes="(max-width: 800px) 100vw, 800px" /></a>
   
   <p class="wp-caption-text">
     Steam Controller Configuration interface.
@@ -58,7 +58,7 @@ The Steam Controller is not a gamepad.  It&#8217;s an input device that can be 
 This is all handled by an addition to Steam&#8217;s user interface.  When you select a game in Steam Big Picture Mode, you have the option to configure your controller for that game.  This provides you with an interface that lets you map each pad, stick, button and click to a control on one of the aforementioned devices.  I won&#8217;t go into detail, but spending half an hour exploring the configuration options available is mindblowing.
 
 <div id="attachment_277" style="width: 810px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2015/10/steamconfig2.png"><img class="wp-image-277 size-large" src="/wp-content/uploads/2015/10/steamconfig2-1024x576.png" alt="A screenshot showing the options available for configuring the controller's touch pads." width="800" height="450" srcset="/wp-content/uploads/2015/10/steamconfig2-1024x576.png 1024w, /wp-content/uploads/2015/10/steamconfig2-300x169.png 300w, /wp-content/uploads/2015/10/steamconfig2-250x141.png 250w, /wp-content/uploads/2015/10/steamconfig2-150x84.png 150w, /wp-content/uploads/2015/10/steamconfig2.png 1366w" sizes="(max-width: 800px) 100vw, 800px" /></a>
+  <a href="{{ /wp-content/uploads/2015/10/steamconfig2.png | prepend: site.baseurl }}"><img class="wp-image-277 size-large" src="{{ /wp-content/uploads/2015/10/steamconfig2-1024x576.png | prepend: site.baseurl }}" alt="A screenshot showing the options available for configuring the controller's touch pads." width="800" height="450" srcset="/wp-content/uploads/2015/10/steamconfig2-1024x576.png 1024w, /wp-content/uploads/2015/10/steamconfig2-300x169.png 300w, /wp-content/uploads/2015/10/steamconfig2-250x141.png 250w, /wp-content/uploads/2015/10/steamconfig2-150x84.png 150w, /wp-content/uploads/2015/10/steamconfig2.png 1366w" sizes="(max-width: 800px) 100vw, 800px" /></a>
   
   <p class="wp-caption-text">
     Touch pad configuration options

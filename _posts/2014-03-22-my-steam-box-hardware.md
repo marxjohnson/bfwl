@@ -22,7 +22,7 @@ To solve this problem along with screen limited resolution due to my TV&#8217;s 
 The final piece of the puzzle was a power supply. Again, I wanted something quiet so went for a [Corsair CM430M](http://www.amazon.co.uk/Corsair-Builder-Series-Modular-Certified/dp/B00ALYP208/ref=wl_it_dp_o_nS_nC?ie=UTF8&colid=1I6VG5W1WPBND&coliid=INVVZ7BQXULNR) which is 80+% efficient and has a 120mm fan. It&#8217;s also modular, meaning only the required cables need to be attached, so reducing cable management needs inside the case.
 
 <div id="attachment_188" style="width: 745px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2014/03/IMG_20140322_155057.jpg"><img class=" wp-image-188 " alt="Photo showing the inside of the steam box from above." src="/wp-content/uploads/2014/03/IMG_20140322_155057.jpg" width="735" height="578" /></a>
+  <a href="{{ /wp-content/uploads/2014/03/IMG_20140322_155057.jpg | prepend: site.baseurl }}"><img class=" wp-image-188 " alt="Photo showing the inside of the steam box from above." src="{{ /wp-content/uploads/2014/03/IMG_20140322_155057.jpg | prepend: site.baseurl }}" width="735" height="578" /></a>
   
   <p class="wp-caption-text">
     Obligatory internal shot, taken from above. The big power supply in the bottom right draws air from vents in the underside of the case and straight out the back, while the big heatsink on the left draws air in through vents above and out through vents in the side and back. Note the RAM slot nearest the heatsink is obstructed. Top-right is a short-depth DVD drive, with the SSD mounted underneath.
@@ -34,7 +34,7 @@ The final piece of the puzzle was a power supply. Again, I wanted something quie
 When building a PC you can basically pick 2 qualities from powerful, small, and quiet. My main concerns for this machine were power (for gaming) and quietness, meaning I&#8217;d inevitably be building something fairly big.  I plumped for a [SilverStone ML03B](http://www.silverstonetek.com/product.php?pid=283&area=en) &#8211; a half-height MicroATX case which isn&#8217;t the most beautiful case, but is really well designed and fits everything inside nicely. I&#8217;ve written a [full review here](http://www.amazon.co.uk/review/R3A5JL747MSRQI/ref=cm_cr_pr_perm?ie=UTF8&ASIN=B004HE2YZE&linkCode=&nodeID=&tag=).
 
 <div id="attachment_187" style="width: 683px" class="wp-caption aligncenter">
-  <a href="/wp-content/uploads/2014/03/IMG_20140322_154633.jpg"><img class="size-full wp-image-187" alt="Photo showing the front of the Silverstone case, with a DVD drive and Gamecube USB adaptor installed." src="/wp-content/uploads/2014/03/IMG_20140322_154633.jpg" width="673" height="233" /></a>
+  <a href="{{ /wp-content/uploads/2014/03/IMG_20140322_154633.jpg | prepend: site.baseurl }}"><img class="size-full wp-image-187" alt="Photo showing the front of the Silverstone case, with a DVD drive and Gamecube USB adaptor installed." src="{{ /wp-content/uploads/2014/03/IMG_20140322_154633.jpg | prepend: site.baseurl }}" width="673" height="233" /></a>
   
   <p class="wp-caption-text">
     The completed steam box viewed from the front, with Gamecube USB adapter on top.
