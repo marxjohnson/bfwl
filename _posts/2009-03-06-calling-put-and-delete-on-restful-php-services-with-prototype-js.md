@@ -3,56 +3,6 @@ id: 5
 title: Calling PUT and DELETE on RESTful PHP services with Prototype.js
 date: 2009-03-06T11:08:20+00:00
 author: mark
-excerpt: |
-  So I was asked to create a <a href="http://en.wikipedia.org/wiki/REST">RESTful</a> web service in <a href="http://php.net">PHP</a>. No problem. I was asked to create a PHP client that connects to it through <a href="http://uk.php.net/curl">cURL</a>. No problem. I was asked to create an <a href="http://en.wikipedia.org/wiki/Ajax_(programming)">AJAX</a> interface to administer it. Problem.
-  
-  The problem wasn't the <a href="https://developer.mozilla.org/En/Same_origin_policy_for_JavaScript">same origin policy</a>, as the AJAX interface was to run on the same server as the service. The problem was implementing the HTTP methods.
-  I use <a href="http://prototypejs.org">Prototype.js</a> for all of my Javascript coding. I'd recommend it to anyone, especially for AJAX as it makes your life a doddle. The basic syntax of an <a href="http://www.prototypejs.org/api/ajax">AJAX request</a> using Prototype looks like this:
-  <pre>ajax = new Ajax.Request('test.php',{
-  method: get,
-  onSuccess: function(xmlHTTP) {
-  $('response').update(xmlHTTP.responseText);
-  }
-  });</pre>
-  There's <a href="http://www.prototypejs.org/api/ajax/options">a host of options</a> for making various types of request, but that's the gist of it. The problem with this, however, is that not all browsers support the PUT and DELETE methods, which in REST are used to update and delete records, respectively. As such, Prototype's Ajax objects don't try and send an XmlHttpRequest object using PUT or DELETE.
-  It turns out that these two methods are implemented using POST as a proxy. It then tells the web service the method you really wanted in $_POST['_method']. This means that to implement calls through AJAX, where your code would have looked something like this:
-  
-  <pre>if($_SERVER["REQUEST_METHOD"] == "GET") {
-  
-  echo("This looks like a GET request to me!");
-  
-  } else if ($_SERVER["REQUEST_METHOD"] == "POST") {
-  
-  echo("This looks like a POST request to me!");
-  
-  } else if ($_SERVER["REQUEST_METHOD"] == "PUT") {
-  
-  echo("This looks like a PUT request to me!");
-  
-  } else if ($_SERVER["REQUEST_METHOD"] == "DELETE") {
-  
-  echo("This looks like a DELETE request to me!");
-  
-  }</pre>
-  It would now need to look like this:
-  <pre>if($_SERVER["REQUEST_METHOD"] == "GET") {
-  
-  echo("This looks like a GET request to me!");
-  
-  } else if ($_SERVER["REQUEST_METHOD"] == "POST" && !isset($_POST['_method'])) {
-  
-  echo("This looks like a POST request to me!");
-  
-  } else if ($_SERVER["REQUEST_METHOD"] == "PUT" || $_POST['_method'] == 'put') {
-  
-  echo("This looks like a PUT request to me!");
-  
-  } else if ($_SERVER["REQUEST_METHOD"] == "DELETE" || $_POST['_method'] == 'delete') {
-  
-  echo("This looks like a DELETE request to me!");
-  
-  }</pre>
-  I'm guessing that any data you're trying to send to PUT that would normally be read in from php://input would have to by hidden in the _POST array somewhere. More experimentation required methinks!
 layout: post
 permalink: /2009/03/calling-put-and-delete-on-restful-php-services-with-prototype-js/
 ---

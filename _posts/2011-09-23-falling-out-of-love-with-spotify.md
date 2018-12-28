@@ -3,33 +3,6 @@ id: 40
 title: Falling out of love with Spotify
 date: 2011-09-23T22:19:09+00:00
 author: mark
-excerpt: |
-  I'm sitting at my computer about to cancel my subscription to <a href="https://www.spotify.com/uk/get-spotify/premium/">Spotify Premium</a>.  They'd like to know why I'm cancelling, which is fair enough, so I'm going to go through the reasons here.  It might get a bit long, but hopefully it'll be worth reading.  If I get a bit passionate I'll probably swear a bit too. Stick with it.
-  
-  <h3>The Short Version</h3>
-  Spotify is no longer worth £10 a month to me.
-  
-  <h3>The Long Version</h3>
-  There's a few reasons why I've decided to cancel my subscription.  Once this is for certain: it's nothing to do with the service.  Spotify as a concept and a technical implementation is excellent.  I've used it for about two years, first as a free user then as a subscriber. I will probably continue using it as a free user.
-  
-  <h4>No Comment</h4>
-  However, I do have a few issues with Spotify as a company, particularly when it comes to customer service.  Lets take a couple of examples.
-  
-  I have always ripped my music to the free high-quality Ogg Vorbis format, rather than MP3.  Spotify also uses Ogg Vorbis for streaming, yet doesn't allow you to play your own Ogg files through Spotify, only MP3s.  When I questioned their customer support about this I pretty much received "Fuck off and die, no comment".  I mean, I'm not a journalist probing you for a juicy story, I'm a paying customer who wants to use your software!  Is it too much to ask for a proper answer?
-  
-  Another fine example of this attitude is <a href="http://getsatisfaction.com/spotify/topics/disk_full_messages_during_sync_when_disk_still_half_empty">this Get Satisfaction thread</a> pertaining to an issue with the Spotify Android client. Essentially, if you try to use a decent sized MicroSD card to sync your Spotify songs offline, it tells you the card is full and won't sync.  Spotify's initial response was akin to "have you tried turning it off an on again?". After they realised this didn't work, they simply said "We can't recreate this" and stopped responding. That was a year ago. There have been 34 further reports from customers.
-  
-  <h4>Pay Per Play</h4>
-  The primary reason I'm leaving has very little to do with Spotify themselves. It has to do with the other people who make Spotify work: the record companies and musicians.
-  
-  If you follow my blog you'll know that <a href="http://www.insideoutmusic.com">InsideOut Music</a>, purveyors of the world's finest Progressive Metal, recently pulled their entire catalogue from Spotify with no warning.  They have since posted <a href="http://www.insideoutmusic.com/newsdetailed.aspx?IdNews=10183&IdCompany=8">a statement explaining why</a>. This seems to be a bit of a trend recently, as a <a href="http://www.hypebot.com/hypebot/2011/09/another-indie-label-pulls-from-spotify.html">couple</a> of <a href="http://www.techdirt.com/articles/20110922/11224716052/labels-dropping-out-spotify-are-totally-missing-point.shtml">articles</a> on from around the web show.  The trouble is that, as Techcrunch put it, they're "totally missing the point".
-  
-  InsideOut justify their departure with the sweeping statement that "Physical sales are dropping drastically in all countries where Spotify is active." No shit, Sherlock. Physical sales? Physical sales have been dropping since the invention of the iPod.  The noise that these  labels make is all focusing on <a href="http://uniformmotion.tumblr.com/post/9659997039/release-day-economics">how much artists get paid</a>.  Now if you're in a band, correct me if I'm wrong, but if I want to make sure you get a decent amount of money from me, I'm not going to buy your CD.  I'm going to pay to come to one of your gigs, and probably buy some merchandise. Am I right?
-  
-  It actually surprises me how much I, and apparently other people, will pay for gigs and merchandise. Through Spotify, I've discovered some amazing bands who I'd love to see live. If Arjen A. Lucassen's Star One tour the UK, there's virtually no ticket price that I'd consider too much.  If I'd joined Spotify a year later than I did, InsideOut would have already pulled the music, and I wouldn't have known that.  Every time Iron Maiden play a gig, there's a T-shirt which you can only get at that gig, featuring their mascot Eddie. They usually cost £20/£25 a time, and they sell like the hottest of cakes. Stop worrying about how much you get paid per play, start worrying about how people find out when you're playing, and that you've got T-shirts to sell them. Spotify can help you do this.
-  
-  <h4>Conclusion</h4>
-  When it comes down to it, the problem is that the people responsible for keeping a large portion of the music I love on Spotify don't get it. For the service to be worth money to me, they need to get it. I will still keep using Spotify Free as my primary way of discovering new music. Is your music on there?
 layout: post
 permalink: /2011/09/falling-out-of-love-with-spotify/
 ---

@@ -3,17 +3,6 @@ id: 29
 title: 'Come to OggCamp&#8230; Oh.'
 date: 2011-04-16T15:33:26+00:00
 author: mark
-excerpt: |
-  So, this was going to be my blog post to promote OggCamp and tell everyone to come. However, <strong>just 5 days</strong> after the event was announced, the <strong>200 tickets</strong> have sold out.
-  
-  <h2>So what the hell is OggCamp?</h2>
-  <a href="http://oggcamp.org">OggCamp</a> is an annual celebration of Open Technology, including <a href="http://creativecommons.org">Creative Commons</a> music, art, literature, Open Source software, open data, and anything else that's generally geeky and hackable. It's organised by <a href="http://podcast.ubuntu-uk.org">The Ubuntu UK Podcast</a> and <a href="http://linuxoutlaws.com">Linux Outlaws</a>.  This year will be the third that the event has run, and the first one I'm involved in organising, and it looks like it's going to be a blast.
-  
-  <h2>When/Where is it?</h2>
-  The event's being held at the <a href="http://www.farnhammaltings.com/">Farnham Maltings in Farnham</a>, Surrey on the 13th and 14th of August.  The "official" hotel is the <a href="http://www.premierinn.com/en/hotel/ALDWIL/aldershot">Aldershot Premier Inn</a>, which is a short drive, train ride or a very long drunken stumble away.
-  
-  <h2>It sounds amazing, but I don't have a ticket! What do I do now?</h2>
-  As I mentioned, the event is now sold out.  All ticket registrations are handled through <a href="http://oggcamp11.eventbrite.com/">EventBrite</a>.  I'd suggest watching the page like a hawk for any cancellations, and snap up the tickets.  Did I mention that the event is <strong>free</strong> for all attendees?
 layout: post
 permalink: /2011/04/come-to-oggcamp-oh/
 ---
