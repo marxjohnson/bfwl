@@ -10,7 +10,7 @@ permalink: /2017/03/marching-with-unite-for-europe/
 > If a democracy cannot change its mind, it ceases to be a democracy. – David Davis
 
 <div id="attachment_310" style="width: 235px" class="wp-caption alignleft">
-  <img src="{{ /wp-content/uploads/2017/03/IMG_20170325_125647-1-225x300.jpg | prepend: site.baseurl }}" alt="The flag of the European Union, flying in front of Westminster Palace." width="225" height="300" class="size-medium wp-image-310" srcset="/wp-content/uploads/2017/03/IMG_20170325_125647-1-225x300.jpg 225w, /wp-content/uploads/2017/03/IMG_20170325_125647-1-112x150.jpg 112w, /wp-content/uploads/2017/03/IMG_20170325_125647-1.jpg 500w" sizes="(max-width: 225px) 100vw, 225px" />
+  <img src="/wp-content/uploads/2017/03/IMG_20170325_125647-1-225x300.jpg" alt="The flag of the European Union, flying in front of Westminster Palace." width="225" height="300" class="size-medium wp-image-310" srcset="/wp-content/uploads/2017/03/IMG_20170325_125647-1-225x300.jpg 225w, /wp-content/uploads/2017/03/IMG_20170325_125647-1-112x150.jpg 112w, /wp-content/uploads/2017/03/IMG_20170325_125647-1.jpg 500w" sizes="(max-width: 225px) 100vw, 225px" />
   
   <p class="wp-caption-text">
     Unite for Europe, Parliament Square, 25/03/2017
