@@ -1,6 +1,6 @@
 ---
 id: 46
-title: 'What I learnt at Dev8D 2012 &#8211; Day 3'
+title: 'What I learnt at Dev8D 2012 - Day 3'
 date: 2012-02-17T15:53:16+00:00
 author: mark
 layout: post

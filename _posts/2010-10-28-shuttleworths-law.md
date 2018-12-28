@@ -1,6 +1,6 @@
 ---
 id: 25
-title: 'Shuttleworth&#8217;s Law'
+title: "Shuttleworth's Law"
 date: 2010-10-28T21:12:16+00:00
 author: mark
 layout: post

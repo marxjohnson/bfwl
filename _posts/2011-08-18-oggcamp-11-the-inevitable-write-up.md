@@ -1,6 +1,6 @@
 ---
 id: 39
-title: 'Oggcamp 11 &#8211; the inevitable write-up'
+title: 'Oggcamp 11 - the inevitable write-up'
 date: 2011-08-18T17:56:10+00:00
 author: mark
 layout: post

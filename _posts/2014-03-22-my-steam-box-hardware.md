@@ -1,6 +1,6 @@
 ---
 id: 179
-title: 'My Steam Box &#8211; Hardware'
+title: 'My Steam Box - Hardware'
 date: 2014-03-22T17:37:56+00:00
 author: mark
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 204
-title: 'My Steam Box &#8211; Amazon Instant Video on Ubuntu'
+title: 'My Steam Box - Amazon Instant Video on Ubuntu'
 date: 2014-03-25T11:00:16+00:00
 author: mark
 layout: post

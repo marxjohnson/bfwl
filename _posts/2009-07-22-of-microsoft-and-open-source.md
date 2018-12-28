@@ -1,6 +1,6 @@
 ---
 id: 13
-title: 'Of Microsoft, and&#8230; Open Source??'
+title: 'Of Microsoft, and... Open Source??'
 date: 2009-07-22T23:22:43+00:00
 author: mark
 layout: post

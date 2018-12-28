@@ -1,6 +1,6 @@
 ---
 id: 22
-title: 'Guru Plug &#8211; Part 1'
+title: 'Guru Plug - Part 1'
 date: 2010-09-26T14:17:37+00:00
 author: mark
 layout: post

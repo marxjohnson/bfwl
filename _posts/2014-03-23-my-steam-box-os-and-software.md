@@ -1,6 +1,6 @@
 ---
 id: 199
-title: 'My Steam Box &#8211; OS and Software'
+title: 'My Steam Box - OS and Software'
 date: 2014-03-23T11:00:27+00:00
 author: mark
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 6
-title: 'Don&#8217;t thank me, thank Super GRUB Disk!'
+title: "Don't thank me, thank Super GRUB Disk!"
 date: 2009-03-16T14:46:06+00:00
 author: mark
 layout: post

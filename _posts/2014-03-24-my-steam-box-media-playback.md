@@ -1,6 +1,6 @@
 ---
 id: 202
-title: 'My Steam Box &#8211; Media Playback'
+title: 'My Steam Box - Media Playback'
 date: 2014-03-24T11:00:50+00:00
 author: mark
 layout: post

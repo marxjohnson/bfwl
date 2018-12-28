@@ -1,6 +1,6 @@
 ---
 id: 36
-title: 'ownCloud &#8211; It does exactly what it says on the tin'
+title: 'ownCloud - It does exactly what it says on the tin'
 date: 2011-07-08T15:50:32+00:00
 author: mark
 layout: post

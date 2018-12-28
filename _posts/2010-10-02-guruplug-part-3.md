@@ -1,6 +1,6 @@
 ---
 id: 24
-title: 'GuruPlug &#8211; Part 3'
+title: 'GuruPlug - Part 3'
 date: 2010-10-02T15:58:25+00:00
 author: mark
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 26
-title: 'Standard &#8211; A new tool for creating slideshows'
+title: 'Standard - A new tool for creating slideshows'
 date: 2010-12-06T12:56:58+00:00
 author: mark
 layout: post

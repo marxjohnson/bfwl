@@ -1,6 +1,6 @@
 ---
 id: 16
-title: 'If we can&#8217;t change the world, let&#8217;s at least get the charts right.'
+title: "If we can't change the world, let's at least get the charts right."
 date: 2009-12-20T19:15:30+00:00
 author: mark
 layout: post

@@ -1,6 +1,6 @@
 ---
 id: 340
-title: 'AutoHandbrake &#8211; DVD ripping wizard'
+title: 'AutoHandbrake - DVD ripping wizard'
 date: 2017-08-21T15:59:54+00:00
 author: mark
 layout: post

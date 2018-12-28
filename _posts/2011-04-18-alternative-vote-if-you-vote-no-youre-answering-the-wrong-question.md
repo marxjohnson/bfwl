@@ -1,6 +1,6 @@
 ---
 id: 30
-title: 'Alternative Vote &#8211; If you vote No, you&#8217;re answering the wrong question'
+title: "Alternative Vote - If you vote No, you're answering the wrong question"
 date: 2011-04-18T21:04:03+00:00
 author: mark
 layout: post

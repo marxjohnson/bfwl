@@ -1,6 +1,6 @@
 ---
 id: 29
-title: 'Come to OggCamp&#8230; Oh.'
+title: 'Come to OggCamp... Oh.'
 date: 2011-04-16T15:33:26+00:00
 author: mark
 layout: post

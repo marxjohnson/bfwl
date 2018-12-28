@@ -1,6 +1,6 @@
 ---
 id: 32
-title: 'More Oggcamp Tickets (get &#8217;em while they&#8217;re hot!)'
+title: "More Oggcamp Tickets (get 'em while they're hot!)"
 date: 2011-05-23T17:50:11+00:00
 author: mark
 layout: post

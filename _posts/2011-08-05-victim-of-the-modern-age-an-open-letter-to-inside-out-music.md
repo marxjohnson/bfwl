@@ -1,6 +1,6 @@
 ---
 id: 38
-title: 'Victim of the Modern Age &#8211; an open letter to Inside Out Music'
+title: 'Victim of the Modern Age - an open letter to Inside Out Music'
 date: 2011-08-05T13:00:34+00:00
 author: mark
 layout: post

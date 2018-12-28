@@ -1,6 +1,6 @@
 ---
 id: 31
-title: 'Is Yes to AV &#8220;Yes To Fairer Votes&#8221;?'
+title: 'Is Yes to AV "Yes To Fairer Votes"?'
 date: 2011-04-23T11:19:03+00:00
 author: mark
 layout: post
