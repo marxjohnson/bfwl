@@ -24,7 +24,7 @@ permalink: /2012/03/installing-cyanogenmod-on-htc-legend/
 ---
 For various reasons, I decided that it was time to do away with the stock firmware on my HTC Legend and install CyanogenMod.
   
-The [CyanogenMod wiki](http://wiki.cyanogenmod.com/wiki/HTC_Legend:_Full_Update_Guide) details the process for rooting the phone, installing a custom recovery image, an installing CM, but I found the following process much simpler:
+The CyanogenMod wiki details the process for rooting the phone, installing a custom recovery image, an installing CM, but I found the following process much simpler:
 
 NB: You will need a Windows PC.
 

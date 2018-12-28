@@ -11,13 +11,7 @@ _Important note: This is a personal blog post on my personal blog. While I was l
   
 _ 
 
-[OggCamp 14](http://oggcamp.org) took place this weekend in Oxford.  Shortly before the event, Twitter user [@zenaynay](http://twitter.com/zenaynay) mentioned that she would be keeping a tally of how many non-male and non-white attendees were at the event.  I was interested to see what she found, and today looked over her timeline from the weekend to find the comments posted below (with her permission), which I felt warranted a considered response.
-
-<div class="storify" style="height: 20em; overflow-y: scroll;">
-  <noscript>
-    [<a href="//storify.com/marxjohnson/diversity-at-oggcamp" target="_blank">View the story &#8220;Diversity at OggCamp&#8221; on Storify</a>]
-  </noscript>
-</div>
+[OggCamp 14](http://oggcamp.org) took place this weekend in Oxford.  Shortly before the event, Twitter user [@zenaynay](http://twitter.com/zenaynay) mentioned that she would be keeping a tally of how many non-male and non-white attendees were at the event.  I was interested to see what she found, and today looked over her timeline from the weekend to find her comments, which I felt warranted a considered response.
 
 Before I continue, I feel I should point out that I&#8217;m a middle-class white male living in the UK and working in the IT industry, which means I have no first-hand experience of what it&#8217;s like to be part of an under-represented minority in my everyday life. This means that when talking about these issues I fear that I may come across as patronising, insensitive, or otherwise offensive. However, to avoid discussing these issues on that basis would be to say that improving diversity is the sole responsibility of the under-represented, which won&#8217;t get us anywhere.
 

@@ -15,7 +15,7 @@ My Lastpass subscription is due for renewal this month, and this week [Lastpass 
 
 Setting up on Linux was straightforward.  I&#8217;m running Ubuntu 14.04, so installed with `apt-get install pass`  I generated a key with `gpg --gen-key` and ran `pass init` to create a password store using the key.  I then ran `pass git init` to initialise the git repository.  Next, I exported my passwords from LastPass using their CSV export feature, and ran the file through [this script](http://git.zx2c4.com/password-store/tree/contrib/importers/lastpass2pass.rb) to import then into pass.  Similar scripts are available for migration from other password stores.
 
-I installed the [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/zx2c4-pass-manager-addon/?src=search), and it works like a charm, matching the current site and filling in login forms for me.
+I installed the [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/browserpass-ce/?src=search), and it works like a charm, matching the current site and filling in login forms for me.
 
 Before I could install a client on another device, I needed to push the git password store to a server.  I logged into my server that&#8217;s accessible via the Internet, created a folder and ran `git init --bare` since I don&#8217;t need to have the files checked out on the server.  I then ran `pass git add remote` to add the server, and `pass git push` to sync the passwords.
 
@@ -39,4 +39,4 @@ Running QtPass prompted me to create a password store &#8211; I selected the key
 
 ## Conclusion
 
-Lastpass has invested a lot in the usablitity of its soltution.  The browser plugins and Android apps take care of identifying websites and filling in the password for you.  pass is part way there, but still has a long way to go.  I&#8217;m willing to comprimise on the usability for the peace of mind of holding all my own data.  However, I wouldn&#8217;t recommend it to anyone who primarily uses Windows, and I wouldn&#8217;t want anyone who&#8217;s not familiar with what GPG is to try and set it up for themselves.  Once set up with the browser extension, it&#8217;s certainly a decent alternative to Lastpass on Linux, and a pretty good one on Android.
+Lastpass has invested a lot in the usability of its solution.  The browser plugins and Android apps take care of identifying websites and filling in the password for you.  pass is part way there, but still has a long way to go.  I&#8217;m willing to comprimise on the usability for the peace of mind of holding all my own data.  However, I wouldn&#8217;t recommend it to anyone who primarily uses Windows, and I wouldn&#8217;t want anyone who&#8217;s not familiar with what GPG is to try and set it up for themselves.  Once set up with the browser extension, it&#8217;s certainly a decent alternative to Lastpass on Linux, and a pretty good one on Android.

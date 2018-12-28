@@ -30,7 +30,7 @@ excerpt: |
   
   A quick reboot to make sure everything's working and... Oh, wait a minute... it stopped connecting to the network. No worries because whenever you reboot it reverts the wireless to Access Point Mode. Except... that didn't work either. And no remote access means no log in. Ah.
   
-  It turns out that I needed to buy one of these <a href="https://www.newit.co.uk/shop/proddetail.php?prod=GuruPlug_JTAG">JTAG boards</a> in order to access the GuruPlug's serial port. Remember that USB cable I mentioned in <a href="{{ "/index.php?q=node/22" | prepend: site.baseurl }}">part 1</a>? Turns out that the JTAG plugs in to the 'Plug and acts as an adapter. If you clicked that link, yes you're reading it right, that's £30 to get access to my own device.
+  It turns out that I needed to buy one of these <a href="https://www.newit.co.uk/shop/proddetail.php?prod=GuruPlug_JTAG">JTAG boards</a> in order to access the GuruPlug's serial port. Remember that USB cable I mentioned in <a href="{{ "/2010/09/guru-plug-part-1/" | prepend: site.baseurl }}">part 1</a>? Turns out that the JTAG plugs in to the 'Plug and acts as an adapter. If you clicked that link, yes you're reading it right, that's £30 to get access to my own device.
   Suffice to say I wasn't overly chuffed by the situation. The NewIT website implies that there's some sort of Mini-USB connection to the device itself (as was the case with the SheevaPlug) and the only indication otherwise was in the documentation that I was emailed 2 days after I received the device.
   Fortunately for me, NewIT saw my point of view on this and offered my a discount on the board, which I gratefully accepted. But please be aware that if you're looking at getting a GuruPlug for anything other than it's out-of-the-box functionality, <strong>buy a JTAG board too!</strong>
   
@@ -70,7 +70,7 @@ Powering on the GuruPlug was pretty straightforward. Turn the socket on, lights 
   
 However, not being provided with any documentation, I was left out in the cold as to how to access it.
   
-As I expected, it was configured to use DHCP be default, so I was able to find it&#8217;s IP address from my router. However, I was never furnished with the root password. Luckily for me, someone had created a [GuruPlug Quickstart guide](http://www.plugcomputer.org/plugwiki/index.php/GuruPlug#GuruPlug_Quick_Start_Guide) on the plugcomputer.org wiki, which contained this nugget of detail (I&#8217;ve since changed it, in case any opportunistic crackers are reading).
+As I expected, it was configured to use DHCP be default, so I was able to find it&#8217;s IP address from my router. However, I was never furnished with the root password. Luckily for me, someone had created a GuruPlug Quickstart guide on (now defunct) the plugcomputer.org wiki, which contained this nugget of detail (I&#8217;ve since changed it, in case any opportunistic crackers are reading).
 
 <pre>sheevaplug-debian:~# cat /etc/apt/sources.list
 deb http://ftp.us.debian.org/debian/ lenny main contrib non-free
@@ -97,7 +97,7 @@ Now that I had somewhere to put a home directory, next step was to create a user
 
 A quick reboot to make sure everything&#8217;s working and&#8230; Oh, wait a minute&#8230; it stopped connecting to the network. No worries because whenever you reboot it reverts the wireless to Access Point Mode. Except&#8230; that didn&#8217;t work either. And no remote access means no log in. Ah.
 
-It turns out that I needed to buy one of these [JTAG boards](https://www.newit.co.uk/shop/proddetail.php?prod=GuruPlug_JTAG) in order to access the GuruPlug&#8217;s serial port. Remember that USB cable I mentioned in [part 1]({{ "/index.php?q=node/22" | prepend: site.baseurl }})? Turns out that the JTAG plugs in to the &#8216;Plug and acts as an adapter. If you clicked that link, yes you&#8217;re reading it right, that&#8217;s £30 to get access to my own device.
+It turns out that I needed to buy a JTAG boards in order to access the GuruPlug&#8217;s serial port. Remember that USB cable I mentioned in [part 1]({{ "/index.php?q=node/22" | prepend: site.baseurl }})? Turns out that the JTAG plugs in to the &#8216;Plug and acts as an adapter. If you clicked that link, yes you&#8217;re reading it right, that&#8217;s £30 to get access to my own device.
   
 Suffice to say I wasn&#8217;t overly chuffed by the situation. The NewIT website implies that there&#8217;s some sort of Mini-USB connection to the device itself (as was the case with the SheevaPlug) and the only indication otherwise was in the documentation that I was emailed 2 days after I received the device.
   

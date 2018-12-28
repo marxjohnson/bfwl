@@ -23,7 +23,7 @@ This was all prompted by a presentation at university during one of my web desig
 
 My thoughts so far:
 
-RSS is good. I used it many moons ago when I still used Windows and had an RSS reader plugin for [Trillian](http://trillian.cc). I&#8217;ve subscribed to Wired and Slashdot which were the 2 main feeds I read then, along with various other computer related stuff, Linuxy stuff and general news. It&#8217;s certainly helped me keep up-to-date with the latest and greatest from the computer industry.
+RSS is good. I used it many moons ago when I still used Windows and had an RSS reader plugin for [Trillian](http://trillian.im). I&#8217;ve subscribed to Wired and Slashdot which were the 2 main feeds I read then, along with various other computer related stuff, Linuxy stuff and general news. It&#8217;s certainly helped me keep up-to-date with the latest and greatest from the computer industry.
 
 Twitter, I&#8217;m not sure about yet. My girlfriend said &#8220;isn&#8217;t that a new Facebook type thing?&#8221; so I tried to explain it to her. She understood what it was but said she didn&#8217;t get why people care what you&#8217;re doing every 10 minutes. I tend to agree with her to the most extent. Besides following Stephen Fry&#8217;s daily antics, there&#8217;s not a huge amount I&#8217;ve gotten out of it as of yet, and my only follower is 10 Downing Street, who only added me because I added them. All the RSS is saying that Twitter is on the tipping point of becoming mainstream, but we&#8217;ll wait and see. All I know is that I waited about as long as I did after hearing about Twitter before joining it as I did with Facebook. When I joined Facebook, about 60% of my friends where on there. None of my friends are on Twitter.
 

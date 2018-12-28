@@ -7,7 +7,7 @@ layout: post
 guid: https://barrenfrozenwasteland.com/?p=145
 permalink: /2013/03/dual-booting-android-and-ubuntu-touch-on-the-nexus-7/
 ---
-Since I wrote [a silly app in QML]({{ "/2013/01/jonoboard-now-with-100-more-ubuntu/" | prepend: site.baseurl }}) I&#8217;ve been keen to have a play around with Ubuntu&#8217;s developer preview for tablets (variously referred to as &#8220;Ubuntu Touch&#8221; and &#8220;phablet&#8221; (phone/tablet)). I have both a Nexus 7 tablet and a Nexus 4 phone which the images support. The trouble is, the images are designed to be run on &#8220;spare devices&#8221; &#8211; there&#8217;s no support for backing up and restoring an existing Android ROM. I&#8217;m not the kind of person who has a spare tablet or smartphone lying around, I use mine a lot, so I&#8217;ve been shying away from trying it out.
+Since I wrote a silly app in QML I&#8217;ve been keen to have a play around with Ubuntu&#8217;s developer preview for tablets (variously referred to as &#8220;Ubuntu Touch&#8221; and &#8220;phablet&#8221; (phone/tablet)). I have both a Nexus 7 tablet and a Nexus 4 phone which the images support. The trouble is, the images are designed to be run on &#8220;spare devices&#8221; &#8211; there&#8217;s no support for backing up and restoring an existing Android ROM. I&#8217;m not the kind of person who has a spare tablet or smartphone lying around, I use mine a lot, so I&#8217;ve been shying away from trying it out.
 
 **Note: The current Ubuntu Touch images are definitely a _Developer Preview_. Not much actually works other than the web browser, it&#8217;s just to give you a feel for the interface and let you try out apps you&#8217;re writing on a touch screen. If you&#8217;re hoping this blog post will tell you how to dual-boot 2 usable systems, I&#8217;m afraid you&#8217;ll be disappointed. Maybe in 6 months.**
 
@@ -22,7 +22,7 @@ It looks like it&#8217;s possible to add other ROMs too &#8211; there&#8217;s an
 
 <a id="1"></a>
 
-[1] The installation of which requires unlocking your bootloader, which will factory reset your Android system and possibly void your warranty, so backup all your data first. <del datetime="2013-08-01T11:58:39+00:00">I used <a href="http://forum.xda-developers.com/showthread.php?t=1809195">Google Nexus 7 Toolkit</a> to do my backup/unlock/restore. It&#8217;s Windows only but I had a hard time finding a Linux-based tool that&#8217;s as easy to use for doing the backups (I assume adb does it, but I didnt dig around enough).</del> [Holo Backup](http://omegavesko.github.io/SimpleADBBackup/) is a good cross-platform tool for doing backup/restore, and [unlock instructions](https://wiki.ubuntu.com/Touch/Install#Step_2_-_Device_unlock) can be found on the Ubuntu Wiki
+[1] The installation of which requires unlocking your bootloader, which will factory reset your Android system and possibly void your warranty, so backup all your data first. <del datetime="2013-08-01T11:58:39+00:00">I used <a href="http://forum.xda-developers.com/showthread.php?t=1809195">Google Nexus 7 Toolkit</a> to do my backup/unlock/restore. It&#8217;s Windows only but I had a hard time finding a Linux-based tool that&#8217;s as easy to use for doing the backups (I assume adb does it, but I didnt dig around enough).</del> Holo Backup is a good cross-platform tool for doing backup/restore, and [unlock instructions](https://wiki.ubuntu.com/Touch/Install#Step_2_-_Device_unlock) can be found on the Ubuntu Wiki
 
 <a id="2"></a> 
 

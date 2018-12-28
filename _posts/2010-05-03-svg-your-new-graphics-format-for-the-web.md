@@ -11,7 +11,7 @@ excerpt: |
   <h2>What's SVG?</h2>
   SVG stands for "Scalable Vector Graphics". <a href="http://www.w3.org/Graphics/SVG/">It's a W3C Standard</a> format which, surprisingly enough, defines a vector graphics. What's different about that? Well, the graphics in use on the web until now have been bitmap formats such as JPEG, PNG and GIF. A bitmap requires that the colour, position and (where supported) opacity of each pixel in the image is stored. Compression can be used, but in general this means that a lot of data is stored and transferred for each image, which increases exponentially as the image becomes larger or more complex.
   Vector Graphics take a fundamentally different approach. Rather than storing individual pixels, they store data about shapes. Each shape in the image has properties such as it's height, width, position and colors stored. When the image is displayed, these properties are used to dynamically render the image. This provides 2 advantages. Firstly, the file size is, generally speaking, a lot smaller for a vector image than for a bitmap image since less data has to be stored. Also, it allows the image to be scaled and stretched up or down in size, without losing resolution and becoming pixelated.
-  SVG is also an XML format, so is pretty easy to learn for anyone used to XHTML or other XML formats. <a href="{{ "/dev8d/" | prepend: site.baseurl }}">It even supports CSS styling</a>, including pseudo-classes like :hover!
+  SVG is also an XML format, so is pretty easy to learn for anyone used to XHTML or other XML formats. It even supports CSS styling, including pseudo-classes like :hover!
   
   <h2>What's so good about that then?</h2>
   One of the great advantages that vector graphics offers on the web is screen resolution-agnostic images. All too often images are a constraint on the width of a web page where they're required for a heahttp://raphaeljs.com/analytics.htmlding graphic or an important layout element. With SVG, you can have a design which scales to fit the user's screen, rather than the other way around. Furthermore, SVG already has solutions for many of the problems that CSS 3 has been trying to solve, such as rounded corners (all SVG rectangles can have a corner radius defined) and custom fonts (fonts are just vectors after all, so they can be easily embedded in an SVG).
@@ -54,7 +54,7 @@ SVG stands for &#8220;Scalable Vector Graphics&#8221;. [It&#8217;s a W3C Standar
   
 Vector Graphics take a fundamentally different approach. Rather than storing individual pixels, they store data about shapes. Each shape in the image has properties such as it&#8217;s height, width, position and colors stored. When the image is displayed, these properties are used to dynamically render the image. This provides 2 advantages. Firstly, the file size is, generally speaking, a lot smaller for a vector image than for a bitmap image since less data has to be stored. Also, it allows the image to be scaled and stretched up or down in size, without losing resolution and becoming pixelated.
   
-SVG is also an XML format, so is pretty easy to learn for anyone used to XHTML or other XML formats. [It even supports CSS styling]({{ "/dev8d/" | prepend: site.baseurl }}), including pseudo-classes like :hover!
+SVG is also an XML format, so is pretty easy to learn for anyone used to XHTML or other XML formats. It even supports CSS styling, including pseudo-classes like :hover!
 
 ## What&#8217;s so good about that then?
 
@@ -66,7 +66,7 @@ For me, the real selling point of SVG is it&#8217;s potential to provide a reali
   
 SVG can be manipulated through Javascript just like HTML can (albeit currently with a standard XML DOM). This combination of vectors and scripting is remarkably similar to Flash&#8217;s use of vector graphics in conjunction with ActionScript. In fact, ActionScript and JavaScript are both based on the ECMAScript standard, so moving from one to the other certainly isn&#8217;t a huge paradigm shift.
   
-And video, I hear you ask? Well, SVG also supports a tag called &#8220;foreignobject&#8221;, allowing you to easily include elements from another XML spec inside an SVG image. [This can be used very effectively in conjunction with HTML5&#8217;s video tag](http://people.mozilla.com/~prouget/demos/round/index.xhtml) to display video, with the added advantage that you&#8217;re not limited to a rectangular player.
+And video, I hear you ask? Well, SVG also supports a tag called &#8220;foreignobject&#8221;, allowing you to easily include elements from another XML spec inside an SVG image. This can be used very effectively in conjunction with HTML5&#8217;s video tag to display video, with the added advantage that you&#8217;re not limited to a rectangular player.
   
 There&#8217;s still work to be done in this area. While this is all \*possible\* at present, there&#8217;s nothing with the ease of Adobe Flash for producing SVG with animation or embedded video/audio.
 

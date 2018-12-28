@@ -7,7 +7,7 @@ layout: post
 guid: https://barrenfrozenwasteland.com/?p=52
 permalink: /2012/08/converting-drupal-6-to-wordpress/
 ---
-I&#8217;ve just moved my blog from [Drupal](http://drupal.org) 6 to [WordPress](http://wordpress.org). There&#8217;s several reasons for this:
+I&#8217;ve just moved my blog from [Drupal](https://drupal.org) 6 to [WordPress](http://wordpress.org). There&#8217;s several reasons for this:
 
   * I was only using Drupal in the first place to get some experience using it. It&#8217;s a great CMS but is overkill for just running a blog.
   * WordPress comes with <a href="http://akismet.com/wordpress" shape="rect">Akismet</a> for reducing comment spam out-of-the-box.
@@ -15,7 +15,7 @@ I&#8217;ve just moved my blog from [Drupal](http://drupal.org) 6 to [WordPress](
 
 I wasn&#8217;t, however, keen on losing my old posts and comments. No problem, Drupal and WordPress are both open source and widely used, there&#8217;ll be tools to convert between them, right? Actually, not so much.
 
-The best thing I found was this post on [Migrating Drupal to WordPress](http://modeling-languages.com/migrating-drupal-6-to-wordpress-3) and the [associated Java script](http://modelling-languages.com/wp-content/uploads/DrupalToWordpress.java) (that&#8217;s a script, written in Java, not a JavaScript file).  I had to tweak the code a bit to get it working, I&#8217;ve put [the resulting code](https://gist.github.com/3258088) on Github.
+The best thing I found was this post on [Migrating Drupal to WordPress](http://modeling-languages.com/migrating-drupal-6-to-wordpress-3) and the [associated Java script](http://modeling-languages.com/wp-content/uploads/DrupalToWordpress.java) (that&#8217;s a script, written in Java, not a JavaScript file).  I had to tweak the code a bit to get it working, I&#8217;ve put [the resulting code](https://gist.github.com/3258088) on Github.
 
 I&#8217;m not really a Java guy, so getting it to run was new for me. Here&#8217;s the steps I took (on Ubuntu 12.04):
 

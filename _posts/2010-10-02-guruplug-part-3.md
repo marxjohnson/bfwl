@@ -25,7 +25,7 @@ excerpt: |
   <a href="http://www.flickr.com/photos/52817101@N05/5047678260/" title="transmission by marxjohnson00, on Flickr"><img src="http://farm5.static.flickr.com/4111/5047678260_66aa3696ab.jpg" width="500" height="354" alt="transmission" /></a>
   
   <h2>UPnP Server</h2>
-  My plan was to share media from the 'Plug's external hard drive to other machines on my network (particularly my Wii, running <a href="http://farter.users.sourceforge.net/geexboxforwii/">GeeXboX</a>). I installed <a href="http://mediatomb.cc/">MediaTomb</a> from APT and set it up to share the files, but when testing with <a href="http://xbmc.org/">XMBC</a> on another machine, I couldn't find them. Unfortunately, there seems to be very little in the way of troubleshooting documentation or other readily-available clients to test with, so I don't know if I'd mis-configured MediaTomb or XMBC, or my network.
+  My plan was to share media from the 'Plug's external hard drive to other machines on my network (particularly my Wii, running <a href="https://wiibrew.org/wiki/GeeXboX">GeeXboX</a>). I installed MediaTomb from APT and set it up to share the files, but when testing with <a href="http://xbmc.org/">XMBC</a> on another machine, I couldn't find them. Unfortunately, there seems to be very little in the way of troubleshooting documentation or other readily-available clients to test with, so I don't know if I'd mis-configured MediaTomb or XMBC, or my network.
   In the end, I decided to switch to using Samba.
   
   <h2>Samba</h2>
@@ -49,7 +49,7 @@ excerpt: |
   Unfortunately, having the router behind the TV meant that the WiFi signal screws up the picture. Luckily, the 'Plug acts as a Wireless Access Point!
   
   <h2>Wireless Access Point</h2>
-  The 'Plug comes pre-configured as an open access point, and routes traffic through the Ethernet interface. I just needed to make a few changes to enable WPA2 encryption. The script /root/init_setup.sh is run on boot to set up the access point among other things, so I just had to add a few commands from <a href="http://www.plugcomputer.org/plugwiki/index.php/Setting_GuruPlug_to_be_a_WiFi_Access_Point#Changing_the_Security_Mode">this guide</a>.
+  The 'Plug comes pre-configured as an open access point, and routes traffic through the Ethernet interface. I just needed to make a few changes to enable WPA2 encryption. The script /root/init_setup.sh is run on boot to set up the access point among other things, so I just had to add a few commands.
   <pre>ifconfig uap0 192.168.1.1 up
   /usr/bin/uaputl sys_cfg_ssid $SSID
   /usr/bin/uaputl sys_cfg_protocol 32
@@ -93,7 +93,7 @@ Next I looked for a bit torrent client. I had the following criteria for a clien
   * It needed a web interface
   * It needed to support encryption
 
-After a bit searching and an abortive attempt at setting up [rtorrent](http://libtorrent.rakshasa.no/), I settled on [Transmission](http://www.transmissionbt.com/about.php), which aside from having the GTK-based GUI used as Ubuntu&#8217;s default client, also runs as a daemon with a web interface. The transmission-daemon package was only available to install from the lenny-backports repository, which caused a few dependency issues, but forcing install of the packages from backports with <tt>apt-get install -t lenny-backports</tt> did the job nicely.
+After a bit searching and an abortive attempt at setting up [rtorrent](http://libtorrent.rakshasa.no/), I settled on [Transmission](http://www.transmissionbt.com/about/), which aside from having the GTK-based GUI used as Ubuntu&#8217;s default client, also runs as a daemon with a web interface. The transmission-daemon package was only available to install from the lenny-backports repository, which caused a few dependency issues, but forcing install of the packages from backports with <tt>apt-get install -t lenny-backports</tt> did the job nicely.
   
 [<img src="http://farm5.static.flickr.com/4111/5047678260_66aa3696ab.jpg" width="500" height="354" alt="transmission" />](http://www.flickr.com/photos/52817101@N05/5047678260/ "transmission by marxjohnson00, on Flickr")
 

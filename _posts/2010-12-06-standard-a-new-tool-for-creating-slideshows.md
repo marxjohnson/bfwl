@@ -27,7 +27,7 @@ permalink: /2010/12/standard-a-new-tool-for-creating-slideshows/
 ---
 ## Presentations
 
-I&#8217;ve given a few presentations in my time. At [University](http://solent.ac.uk), at work, at [conferences](http://transfersummit.com/programme/47) and [barcamps](http://oggcamp.org/schedule), and recently to some students at the [University of Portsmouth](http://port.ac.uk). They&#8217;ve all had one thing in common: a slideshow.
+I&#8217;ve given a few presentations in my time. At [University](http://solent.ac.uk), at work, at conferences and [barcamps](http://oggcamp.org/schedule), and recently to some students at the [University of Portsmouth](http://port.ac.uk). They&#8217;ve all had one thing in common: a slideshow.
 
 ## Slideshows Suck
 
@@ -45,6 +45,6 @@ The problem presented (ho, ho) by S5 is that it lacks the familiar editing tools
   
 So here we reach the purpose of this post. Last night I released the first product of the _Standard_ project, a new open source project I&#8217;ve started to produce tools for creating S5 slideshows. The key to these products is that you won&#8217;t need them to present the slideshow &#8211; you can use a web browser of your choice. The current editor is a plugin for [Moodle 2](http://moodle.org), which I decided to create after using an S5 slideshow at work and seeing the potential for the format in a web-based Virtual Learning Environment. I also plan to create a simple desktop application that can be downloaded and run, and am looking at options for the best platform (I&#8217;ve had [AIR](http://www.adobe.com/products/air/) suggested, but would prefer an open source solution, I&#8217;m currently looking at Ruby/Qt).
 
-The first release is now in [Moodle Contrib CVS](http://cvs.moodle.org/contrib/plugins/mod/standardslideshow/), and the latest code will always be available from [Github](http://marxjohnson.github.com/standard-slideshow-moodle/). If you want to keep track of the project, I&#8217;ll be blogging here with the _[Standard]({{ "/index.php?q=taxonomy/term/7" | prepend: site.baseurl }})_ tag, [Tweeting](http://twitter.com/marxjohnson) about it, and you can email me on mark at this domain.
+The latest code will always be available from [Github](http://marxjohnson.github.com/standard-slideshow-moodle/). 
 
 Rock and roll!

@@ -20,7 +20,7 @@ excerpt: |
   <li><a href="http://danlynch.org/">Dan Lynch</a>, for always having an idea when a problem arose.</li>
   <li><a href="http://jon.sprig.gs/">Jon Spriggs</a>, for a very long Skype call.</li>
   <li><a href="http://www.lauracowen.co.uk/blog/">Laura Cowen</a>, for telling me I was doing a good job exactly when I needed someone to.</li>
-  <li><a href="http://lespounder.wordpress.com/">Les Pounder</a> and the rest of the event's crew, for who there simply aren't words. You guys are incredible, and without you there would be no Oggcamp.</li>
+  <li><a href="https://bigl.es">Les Pounder</a> and the rest of the event's crew, for who there simply aren't words. You guys are incredible, and without you there would be no Oggcamp.</li>
   <li>All our sponsors: <a href="http://www.bytemark.co.uk/">Bytemark Hosting</a>, <a href="http://canonical.com">Canonical</a>, <a href="http://lug.org.uk">Lug.org.uk</a>, <a href="http://bitfolk.com/">Bitfolk</a>, <a href="http://google.com">Google</a>, <a href="http://www.apress.com/">Apress</a>, <a href="http://oreilly.com">O'Reilly</a> (ya, <a href="http://bbsimg.ngfiles.com/1/6301000/ngbbs43148239da63a.gif">Reilly</a>) and <a href="http://linuxformat.co.uk">Linux Format</a>, who without which there would also be no OggCamp, since they paid for it. Buy their stuff.</li>
   <li><a href="http://popey.com">Alan Pope</a>, for this, and <a href="http://twitter.com/#!/alanbell_libsol">Alan Bell</a> for filming it:
   <iframe width="420" height="345" src="http://www.youtube.com/embed/5smhy9OB-CM" frameborder="0" allowfullscreen></iframe>
@@ -50,7 +50,7 @@ Lastly, there are a lot of people I&#8217;d like to thank publicly, in no partic
   * [Dan Lynch](http://danlynch.org/), for always having an idea when a problem arose.
   * [Jon Spriggs](http://jon.sprig.gs/), for a very long Skype call.
   * [Laura Cowen](http://www.lauracowen.co.uk/blog/), for telling me I was doing a good job exactly when I needed someone to.
-  * [Les Pounder](http://lespounder.wordpress.com/) and the rest of the event&#8217;s crew, for who there simply aren&#8217;t words. You guys are incredible, and without you there would be no Oggcamp.
+  * [Les Pounder](https://bigl.es) and the rest of the event&#8217;s crew, for who there simply aren&#8217;t words. You guys are incredible, and without you there would be no Oggcamp.
   * All our sponsors: [Bytemark Hosting](http://www.bytemark.co.uk/), [Canonical](http://canonical.com), [Lug.org.uk](http://lug.org.uk), [Bitfolk](http://bitfolk.com/), [Google](http://google.com), [Apress](http://www.apress.com/), [O&#8217;Reilly](http://oreilly.com) (ya, [Reilly](http://bbsimg.ngfiles.com/1/6301000/ngbbs43148239da63a.gif)) and [Linux Format](http://linuxformat.co.uk), who without which there would also be no OggCamp, since they paid for it. Buy their stuff.
   * [Alan Pope](http://popey.com), for this, and [Alan Bell](http://twitter.com/#!/alanbell_libsol) for filming it:
 

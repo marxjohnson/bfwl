@@ -9,15 +9,9 @@ permalink: /2017/03/marching-with-unite-for-europe/
 ---
 > If a democracy cannot change its mind, it ceases to be a democracy. – David Davis
 
-<div id="attachment_310" style="width: 235px" class="wp-caption alignleft">
-  <img src="{{ "/wp-content/uploads/2017/03/IMG_20170325_125647-1-225x300.jpg" | prepend: site.baseurl }}" alt="The flag of the European Union, flying in front of Westminster Palace." width="225" height="300" class="size-medium wp-image-310" srcset="{{ "/wp-content/uploads/2017/03/IMG_20170325_125647-1-225x300.jpg" | prepend: site.baseurl }} 225w, {{ "/wp-content/uploads/2017/03/IMG_20170325_125647-1-112x150.jpg" | prepend: site.baseurl }} 112w, {{ "/wp-content/uploads/2017/03/IMG_20170325_125647-1.jpg" | prepend: site.baseurl }} 500w sizes="(max-width: 225px) 100vw, 225px" />
-  
-  <p class="wp-caption-text">
-    Unite for Europe, Parliament Square, 25/03/2017
-  </p>
-</div> On Saturday I marched to Parliament Square, London with 
+<img src="{{ "/wp-content/uploads/2017/03/IMG_20170325_125647-1-225x300.jpg" | prepend: site.baseurl }}" alt="The flag of the European Union, flying in front of Westminster Palace." width="225" height="300" class="size-medium wp-image-310" srcset="{{ "/wp-content/uploads/2017/03/IMG_20170325_125647-1-225x300.jpg" | prepend: site.baseurl }} 225w, {{ "/wp-content/uploads/2017/03/IMG_20170325_125647-1-112x150.jpg" | prepend: site.baseurl }} 112w, {{ "/wp-content/uploads/2017/03/IMG_20170325_125647-1.jpg" | prepend: site.baseurl }} 500w sizes="(max-width: 225px) 100vw, 225px" />
 
-[Unite for Europe](https://www.uniteforeurope.org/), in protest against Brexit. If you asked me beforehand why I was marching, I&#8217;d have found it hard to articulate an answer, beyond &#8220;because I have to _do_ something&#8221;. But now I&#8217;ve had time to digest the views and stories expressed on the day, I think I can explain it a bit better.
+On Saturday I marched to Parliament Square, London with 
 
 I was marching for the children, holdings signs with slogans like &#8220;I want my future back&#8221;. They will have to live with the impact of Brexit for the longest, yet they had no say in the referendum. They&#8217;ve been brought up with a promise of the chance to study, to travel and to live anywhere in the EU. They probably go to school with friends who&#8217;s parents are EU nationals. If the Government continues on its current course, by the time we leave the EU a lot more of them will be of voting age, but will not have had a say on the issue. Their future is being taken away, without their consent.
 

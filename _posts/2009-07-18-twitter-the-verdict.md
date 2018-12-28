@@ -4,7 +4,7 @@ title: 'Twitter: The verdict'
 date: 2009-07-18T13:02:05+00:00
 author: mark
 excerpt: |
-  So back in February I wrote <a href="{{ "/index.php?q=node/2" | prepend: site.baseurl }}">a post</a> about Twitter, and why I was joining. That was 5 months ago now, so here's the conclusions I've drawn.
+  So back in February I wrote <a href="{{ "/2009/02/of-twitter-and-rss/" | prepend: site.baseurl }}">a post</a> about Twitter, and why I was joining. That was 5 months ago now, so here's the conclusions I've drawn.
   
   <h2>Trends</h2>
   When I started, you were able to search keywords and view trending topics (the words/phrases that featured the most) on a subdomain, search.twitter.com. This has since been moved to a sidebar on the main site. Terrible idea. This has generated to end of spam and pointless bandwagoning. Not only do you get people posting relentlessly to get their tag on the trending topics list, but you actually get people who write a post consisting entirely of trending phrases then saying "Follow me plz!!". If I follow someone, it's because I find them amusing, interesting or informative, not coz they post bollocks. Go away.
@@ -33,7 +33,7 @@ excerpt: |
 layout: post
 permalink: /2009/07/twitter-the-verdict/
 ---
-So back in February I wrote [a post]({{ "/index.php?q=node/2" | prepend: site.baseurl }}) about Twitter, and why I was joining. That was 5 months ago now, so here&#8217;s the conclusions I&#8217;ve drawn.
+So back in February I wrote [a post]({{ "/2009/02/of-twitter-and-rss/" | prepend: site.baseurl }}) about Twitter, and why I was joining. That was 5 months ago now, so here&#8217;s the conclusions I&#8217;ve drawn.
 
 ## Trends
 
@@ -57,7 +57,7 @@ This is actually a pretty big relief. When I saw these features I thought they&#
 
 One of Twitter&#8217;s strengths is it&#8217;s API allowing you to tweet easily from anywhere (within reason). However, I find myself in the small part of the Twitter community that&#8217;s somewhat hard done by. I have an old phone which can just about run a basic J2ME Twitter client, and a linux desktop. What I&#8217;d really like is a desktop widget that gets my timeline, and lets me post tweets. Hold on, what&#8217;s this? A KDE Plama widget that does just that!
   
-Then I see a post from another user that&#8217;s come from [Spaz](http://funkatron.com/spaz/), so I check it out. It looks amazing! All the stuff in my Plasma widget, plus searching, retweeting, the lot! I then find [Tweetdeck](http://tweetdeck.com/beta/) and whole host of awesome-looking Twitter apps. How can I run them on Linux? Do I need Wine? No! They run on [AIR](http://www.adobe.com/products/air/), which should work on Linux with no problem. I install spaz, play with my window manager to get it behaving like a desktop widget, and hey presto&#8230;. AIR stops working. No errors, it just won&#8217;t start. Great.
+Then I see a post from another user that&#8217;s come from [Spaz](http://funkatron.com/spaz/), so I check it out. It looks amazing! All the stuff in my Plasma widget, plus searching, retweeting, the lot! I then find [Tweetdeck](http://tweetdeck.com/) and whole host of awesome-looking Twitter apps. How can I run them on Linux? Do I need Wine? No! They run on [AIR](http://www.adobe.com/products/air/), which should work on Linux with no problem. I install spaz, play with my window manager to get it behaving like a desktop widget, and hey presto&#8230;. AIR stops working. No errors, it just won&#8217;t start. Great.
 
 Never mind, someone will have written a sexy, full-featured Twitter client for Linux that doesn&#8217;t need AIR, right? Err&#8230; no. It seems that AIR is the de facto platform for Twitter clients. Hohum.
   

@@ -25,7 +25,7 @@ Being a fan of the show, I jumped at the chance.
 
 After what must only have been 6 or 7 episodes (although it was so much fun it felt like a lot more), it was Christmas and time to call and end to season 3 of the show. However, after a couple of months off we&#8217;re rested and we&#8217;re back, this time doing things a little differently&#8230;
 
-The big change we&#8217;re making is the move to an official live stream of the show. There&#8217;ll be details of how to listen on the [Live page](http://podcast.ubuntu-uk.org/live/) with links to how you can get involved during and after the show, via IRC, [Twitter](http://twitter.com/uupc) or [Identica](https://identi.ca/uupc). Of course, if you want to get in touch in between shows you can still use [email](mailto:podcast@ubuntu-uk.org) and voicemail, just like before.
+The big change we&#8217;re making is the move to an official live stream of the show. There&#8217;ll be details of how to listen on the [Live page](http://podcast.ubuntu-uk.org/live/) with links to how you can get involved during and after the show, via IRC, [Twitter](http://twitter.com/uupc) or Identica. Of course, if you want to get in touch in between shows you can still use [email](mailto:podcast@ubuntu-uk.org) and voicemail, just like before.
   
 The show will go live on Tuesday evenings, from about 8.30 until 9.30 PM UK time, which is another change for us. We used to record on Monday, edit on Tuesday, and release on Wednesday. Now the plan is to stream and record on Tuesday, and release a relatively un-edited recording on the Wednesday as before. The first show is **this tuesday, 1st of March**.
 

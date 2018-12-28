@@ -25,7 +25,7 @@ permalink: /2010/06/getting-wiipresent-working-on-ubuntu-lucid/
 ---
 I wanted wiipresent (a handy tool that lets you use a WiiMote as a handy wireless presenter) running on Ubuntu Lucid (10.04). Here&#8217;s how I did it:
 
-First, I had to download the latest rpm from [The Wiipresent site](http://packages.sw.be/wiipresent/).
+First, I had to download the latest rpm from [The Wiipresent site](http://dag.wiee.rs/home-made/wiipresent/).
 
 Next I needed to install alien to allow me to install the rpm on my debian-based system:
   

@@ -23,6 +23,6 @@ However, Microsoft&#8217;s now a contributor to the software they previously cla
 
 Secondly, it&#8217;ll be interesting to see how much Microsoft embraces the open source development model. Will they just throw the code out and say &#8220;Look! GPL! Aren&#8217;t we great!&#8221; while only distributing code created in-house, or are they going to be encouraging community development? Are they going to submit the Moodle plugin for inclusion in CVS? Are they going to put it in the Modules and Plugins database?
   
-One worrying sign at the moment is that the plugin is only supported on Moodle 1.9, yet it [requires](http://www.educationlabs.com/projects/moodleproduct/Lists/Discussions/Flat.aspx?RootFolder=%2fprojects%2fmoodleproduct%2fLists%2fDiscussions%2fRequires%20PHP5&FolderCTID=0x01200200D45B6615A938C846AA1161B59DEFDC4D&TopicsView=http%3A%2F%2Fwww.educationlabs.com%2Fprojects%2Fmoodleproduct%2FLists%2FDiscussions%2FAllItems.aspx) PHP 5. Moodle 1.9 doesn&#8217;t have PHP 5 as a requirement, and Microsoft&#8217;s documentation makes no mention of this.
+One worrying sign at the moment is that the plugin is only supported on Moodle 1.9, yet it requires PHP 5. Moodle 1.9 doesn&#8217;t have PHP 5 as a requirement, and Microsoft&#8217;s documentation makes no mention of this.
   
 I&#8217;m interested, but I&#8217;m not getting too excited, yet.

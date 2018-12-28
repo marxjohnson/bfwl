@@ -4,7 +4,7 @@ title: 'Guru Plug &#8211; Part 1'
 date: 2010-09-26T14:17:37+00:00
 author: mark
 excerpt: |
-  A few months ago I pre-ordered a <a href="http://www.newit.co.uk/shop/products.php?cat=11">GuruPlug</a>, <a href="http://www.globalscaletechnologies.com/">GlobalScale</a>'s new plug computer, and the successor to the <a href="http://www.newit.co.uk/shop/products.php?cat=5">SheevaPlug</a>.
+  A few months ago I pre-ordered a GuruPlug, <a href="http://www.globalscaletechnologies.com/">GlobalScale</a>'s new plug computer, and the successor to the SheevaPlug.
   I've been wanting to run a home server for a while, to act as a web server as well as performing a few other always-on functions, but I've not been willing to pay the cost of running my desktop 24/7. Drawing under 5 Watts of power, the GuruPlug satisfies this need perfectly.
   On Friday I finally received an email telling me my GuruPlug had been shipped, and on Saturday it arrived in the post.
   
@@ -57,7 +57,7 @@ excerpt: |
 layout: post
 permalink: /2010/09/guru-plug-part-1/
 ---
-A few months ago I pre-ordered a [GuruPlug](http://www.newit.co.uk/shop/products.php?cat=11), [GlobalScale](http://www.globalscaletechnologies.com/)&#8216;s new plug computer, and the successor to the [SheevaPlug](http://www.newit.co.uk/shop/products.php?cat=5).
+A few months ago I pre-ordered a GuruPlug, [GlobalScale](http://www.globalscaletechnologies.com/)&#8216;s new plug computer, and the successor to the SheevaPlug.
   
 I&#8217;ve been wanting to run a home server for a while, to act as a web server as well as performing a few other always-on functions, but I&#8217;ve not been willing to pay the cost of running my desktop 24/7. Drawing under 5 Watts of power, the GuruPlug satisfies this need perfectly.
   

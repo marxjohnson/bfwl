@@ -8,7 +8,7 @@ excerpt: |
   
   My idea started when someone suggested to my that I should apply for a patent if I wanted to market a piece of my software. I thought this was a terrible idea - software patents are destructive to software innovation. But not having a succinct way to explain why to someone who's not an open source programmer, I just shrugged off the issue.
   
-  Then, at the first OggCamp, I saw an excellent talk by Bruno Bord on <a href="http://linkpot.net/academy">explaining programming and open source to non-techies</a>. He used an analogy of Jam making to show how he explained programming to his grandmother. This seemed like a good method of explaining software patents, if I could think of the right analogy.
+  Then, at the first OggCamp, I saw an excellent talk by Bruno Bord on <a href="https://vimeo.com/7261743">explaining programming and open source to non-techies</a>. He used an analogy of Jam making to show how he explained programming to his grandmother. This seemed like a good method of explaining software patents, if I could think of the right analogy.
   
   There are 2 reasons I wished to give this talk at OggCamp. Firstly, to see if my analogy worked, and secondly to see if my arguments held water. Let's face it, if I couldn't convince a bunch of Open Source Geeks that I was along the right lines with a criticism of software patents, I certainly couldn't convince anyone else!
   
@@ -32,7 +32,7 @@ This article is a write up of the talk I gave at [OggCamp10](http://oggcamp.org)
 
 My idea started when someone suggested to my that I should apply for a patent if I wanted to market a piece of my software. I thought this was a terrible idea &#8211; software patents are destructive to software innovation. But not having a succinct way to explain why to someone who&#8217;s not an open source programmer, I just shrugged off the issue.
 
-Then, at the first OggCamp, I saw an excellent talk by Bruno Bord on [explaining programming and open source to non-techies](http://linkpot.net/academy). He used an analogy of Jam making to show how he explained programming to his grandmother. This seemed like a good method of explaining software patents, if I could think of the right analogy.
+Then, at the first OggCamp, I saw an excellent talk by Bruno Bord on [explaining programming and open source to non-techies](https://vimeo.com/7261743). He used an analogy of Jam making to show how he explained programming to his grandmother. This seemed like a good method of explaining software patents, if I could think of the right analogy.
 
 There are 2 reasons I wished to give this talk at OggCamp. Firstly, to see if my analogy worked, and secondly to see if my arguments held water. Let&#8217;s face it, if I couldn&#8217;t convince a bunch of Open Source Geeks that I was along the right lines with a criticism of software patents, I certainly couldn&#8217;t convince anyone else!
 
