@@ -18,7 +18,7 @@ NB: You will need a Windows PC.
   * When complete, download the [custom recovery image](http://download.clockworkmod.com/recoveries/recovery-clockwork-5.0.2.0-legend.img)
   * Place the image in C:\Android and rename it to recovery.img
   * Install the custom recovery image with the command `fastboot flash recovery recovery.img`. You can now boot into Recovery by selecting &#8220;RECOVERY&#8221; from the bootloader menu.
-  * Install CyanogenMod using the [Method via Recovery](http://wiki.cyanogenmod.com/wiki/HTC_Legend:_Full_Update_Guide#Method_via_Recovery)
+  * Install CyanogenMod using the Method via Recovery
 
 Apparrently some phones have issues with this method as the kernel needs to be flashed seperately from CM, but I didn&#8217;t find this necessary with the Legend.
 

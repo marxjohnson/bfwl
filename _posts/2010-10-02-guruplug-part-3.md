@@ -36,7 +36,7 @@ After a bit searching and an abortive attempt at setting up [rtorrent](http://li
 
 ## UPnP Server
 
-My plan was to share media from the &#8216;Plug&#8217;s external hard drive to other machines on my network (particularly my Wii, running [GeeXboX](http://farter.users.sourceforge.net/geexboxforwii/)). I installed [MediaTomb](http://mediatomb.cc/) from APT and set it up to share the files, but when testing with [XMBC](http://xbmc.org/) on another machine, I couldn&#8217;t find them. Unfortunately, there seems to be very little in the way of troubleshooting documentation or other readily-available clients to test with, so I don&#8217;t know if I&#8217;d mis-configured MediaTomb or XMBC, or my network.
+My plan was to share media from the &#8216;Plug&#8217;s external hard drive to other machines on my network (particularly my Wii, running [GeeXboX](https://wiibrew.org/wiki/GeeXboX)). I installed MediaTomb from APT and set it up to share the files, but when testing with [XMBC](http://xbmc.org/) on another machine, I couldn&#8217;t find them. Unfortunately, there seems to be very little in the way of troubleshooting documentation or other readily-available clients to test with, so I don&#8217;t know if I&#8217;d mis-configured MediaTomb or XMBC, or my network.
   
 In the end, I decided to switch to using Samba.
 
@@ -69,7 +69,7 @@ Unfortunately, having the router behind the TV meant that the WiFi signal screws
 
 ## Wireless Access Point
 
-The &#8216;Plug comes pre-configured as an open access point, and routes traffic through the Ethernet interface. I just needed to make a few changes to enable WPA2 encryption. The script /root/init_setup.sh is run on boot to set up the access point among other things, so I just had to add a few commands from [this guide](http://www.plugcomputer.org/plugwiki/index.php/Setting_GuruPlug_to_be_a_WiFi_Access_Point#Changing_the_Security_Mode).
+The &#8216;Plug comes pre-configured as an open access point, and routes traffic through the Ethernet interface. I just needed to make a few changes to enable WPA2 encryption. The script /root/init_setup.sh is run on boot to set up the access point among other things, so I just had to add a few commands.
 
 <pre>ifconfig uap0 192.168.1.1 up
 /usr/bin/uaputl sys_cfg_ssid $SSID
