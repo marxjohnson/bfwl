@@ -97,7 +97,7 @@ Now that I had somewhere to put a home directory, next step was to create a user
 
 A quick reboot to make sure everything&#8217;s working and&#8230; Oh, wait a minute&#8230; it stopped connecting to the network. No worries because whenever you reboot it reverts the wireless to Access Point Mode. Except&#8230; that didn&#8217;t work either. And no remote access means no log in. Ah.
 
-It turns out that I needed to buy one of these [JTAG boards](https://www.newit.co.uk/shop/proddetail.php?prod=GuruPlug_JTAG) in order to access the GuruPlug&#8217;s serial port. Remember that USB cable I mentioned in [part 1](/index.php?q=node/22)? Turns out that the JTAG plugs in to the &#8216;Plug and acts as an adapter. If you clicked that link, yes you&#8217;re reading it right, that&#8217;s £30 to get access to my own device.
+It turns out that I needed to buy one of these [JTAG boards](https://www.newit.co.uk/shop/proddetail.php?prod=GuruPlug_JTAG) in order to access the GuruPlug&#8217;s serial port. Remember that USB cable I mentioned in [part 1]({{ "/index.php?q=node/22" | prepend: site.baseurl }})? Turns out that the JTAG plugs in to the &#8216;Plug and acts as an adapter. If you clicked that link, yes you&#8217;re reading it right, that&#8217;s £30 to get access to my own device.
   
 Suffice to say I wasn&#8217;t overly chuffed by the situation. The NewIT website implies that there&#8217;s some sort of Mini-USB connection to the device itself (as was the case with the SheevaPlug) and the only indication otherwise was in the documentation that I was emailed 2 days after I received the device.
   

@@ -7,7 +7,7 @@ layout: post
 guid: https://barrenfrozenwasteland.com/?p=260
 permalink: /2015/06/configuring-pass-on-windows/
 ---
-In [my last post](/2015/06/migrating-lastpass-to-pass-password-store/), I concluded that pass wasn&#8217;t any good if you use Windows due to the lack of browser extension and flaky apps.  I&#8217;ve since discovered how to set up both the command-line pass client and the Firefox extension on Windows, so thought it was worth another post to explain what I did.  Note, this isn&#8217;t a straightforward process.  You&#8217;re probably only interested in this if you primarily use a Unix-like system, but need Windows support too.  pass isn&#8217;t currently an ideal solution if you primarily use Windows.  This also assumes you&#8217;re running 64-bit Windows 7, other versions may have slightly different paths in the commands.
+In [my last post]({{ "/2015/06/migrating-lastpass-to-pass-password-store/" | prepend: site.baseurl }}), I concluded that pass wasn&#8217;t any good if you use Windows due to the lack of browser extension and flaky apps.  I&#8217;ve since discovered how to set up both the command-line pass client and the Firefox extension on Windows, so thought it was worth another post to explain what I did.  Note, this isn&#8217;t a straightforward process.  You&#8217;re probably only interested in this if you primarily use a Unix-like system, but need Windows support too.  pass isn&#8217;t currently an ideal solution if you primarily use Windows.  This also assumes you&#8217;re running 64-bit Windows 7, other versions may have slightly different paths in the commands.
 
 ## Dependencies
 

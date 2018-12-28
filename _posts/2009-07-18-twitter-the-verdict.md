@@ -33,7 +33,7 @@ excerpt: |
 layout: post
 permalink: /2009/07/twitter-the-verdict/
 ---
-So back in February I wrote [a post](/index.php?q=node/2) about Twitter, and why I was joining. That was 5 months ago now, so here&#8217;s the conclusions I&#8217;ve drawn.
+So back in February I wrote [a post]({{ "/index.php?q=node/2" | prepend: site.baseurl }}) about Twitter, and why I was joining. That was 5 months ago now, so here&#8217;s the conclusions I&#8217;ve drawn.
 
 ## Trends
 

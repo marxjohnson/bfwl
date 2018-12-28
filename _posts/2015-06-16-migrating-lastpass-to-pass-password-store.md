@@ -27,7 +27,7 @@ In Password Store, I set up the Git repository and synced down my passwords.  I
 
 ## Windows
 
-**Update:** I&#8217;ve since worked out how to set up pass properly on Windows, including the Firefox extension.  [See this post for a full guide](/2015/06/configuring-pass-on-windows/).
+**Update:** I&#8217;ve since worked out how to set up pass properly on Windows, including the Firefox extension.  [See this post for a full guide]({{ "/2015/06/configuring-pass-on-windows/" | prepend: site.baseurl }}).
 
 There are several solutions for Windows, none of them are as complete as the Linux equivalents yet (for example, no Firefox plugin).  However, you can get a similar copy-to-clipboard-then-auto-delete workflow like on Android.
 

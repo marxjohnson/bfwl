@@ -54,7 +54,7 @@ SVG stands for &#8220;Scalable Vector Graphics&#8221;. [It&#8217;s a W3C Standar
   
 Vector Graphics take a fundamentally different approach. Rather than storing individual pixels, they store data about shapes. Each shape in the image has properties such as it&#8217;s height, width, position and colors stored. When the image is displayed, these properties are used to dynamically render the image. This provides 2 advantages. Firstly, the file size is, generally speaking, a lot smaller for a vector image than for a bitmap image since less data has to be stored. Also, it allows the image to be scaled and stretched up or down in size, without losing resolution and becoming pixelated.
   
-SVG is also an XML format, so is pretty easy to learn for anyone used to XHTML or other XML formats. [It even supports CSS styling](/dev8d/), including pseudo-classes like :hover!
+SVG is also an XML format, so is pretty easy to learn for anyone used to XHTML or other XML formats. [It even supports CSS styling]({{ "/dev8d/" | prepend: site.baseurl }}), including pseudo-classes like :hover!
 
 ## What&#8217;s so good about that then?
 
