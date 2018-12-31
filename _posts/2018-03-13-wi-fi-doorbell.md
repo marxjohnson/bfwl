@@ -45,7 +45,8 @@ The webcam has a clip on the base which I used to mount it on the outside of the
 
 This script is running on the Pi, launched on boot:
 
-<pre>import os
+{% highlight python %}
+import os
 import simplepush
 from time import sleep
 from gpiozero import LED, Button
@@ -92,7 +93,7 @@ led.blink(.5, .5, 3)
 led.on()
 
 pause()
-</pre>
+{% endhighlight %}
 
 [Motion](https://motion-project.github.io/) is running all the time, automatically capturing images and video when the webcam detects movement. When the button is pressed, it grabs an image and uploads it to my local web server. If the Joggler is turned on (determined by trying to ping it), it then uses Kodi&#8217;s JSON-RPC API to play a doorbell sound on the Joggler, and tells it to display the uploaded image. It also uses [Simplepush](https://simplepush.io/) to send a push notification to my phone with the URL of the image (which I can access anywhere), and the URL of the live feed from Motion (which I can access if I&#8217;m in the house).
 

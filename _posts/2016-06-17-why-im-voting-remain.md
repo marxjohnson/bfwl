@@ -1,6 +1,6 @@
 ---
 id: 290
-title: "Why I'm voting "remain""
+title: Why I'm voting "remain"
 date: 2016-06-17T19:15:56+00:00
 author: mark
 layout: post

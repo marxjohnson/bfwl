@@ -51,3 +51,14 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+.title-wrapper {
+    display: inline-block;
+    .site-title {
+        float: none;
+        margin-right: 40px;
+    }
+    .site-title, .site-description {
+        display: block;
+    }
+}
