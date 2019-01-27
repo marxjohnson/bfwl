@@ -1,0 +1,34 @@
+a {cursor:url("images/acursor.ani"),pointer;color:#0000FF;}
+a:visited {color:#0000FF;}
+a:hover {color:#00CCFF;}
+body {background-color: #66CCFF; cursor:url("images/cursor.ani"),default;}
+img {border: 0cm;}
+.main {text-align: center;vertical-align: top;}
+.menu {text-align: center;}
+p, ul {font-family: arial,sans-serif;font-size: 13pt; color:#000000;}
+h1 {font-family: "Copperplate gothic light",monospace;font-size: 20pt;}
+h2 {font-family: "MS Sans Serif",sans-serif;Font-Size: 14pt;color: #A3A3A3;}
+.u {text-decoration: underline;}
+.left {text-align: left;}
+.fpa {color: #CC33FF;}
+.bpa {color: #FF66FF;}
+/*
+.zig {all-your-base: belong_to_us;}
+*/
+.lba {color: #0033FF;}
+.sga {color: #00CC00;}
+.narr {font-weight: bold;color: #FFCC99;}
+.capt {color: #999999;}
+.alf {color: #FF9933;}
+.bob {color: #9966FF;}
+.burt {color: #FF3333;}
+.deli {font-style: oblique;color: #339966;}
+.paul {color: #996600;}
+.top {font-size: 10pt;font-family: arial,sans-serif;}
+.sst {font-size: 72pt;font-family: "comic sans MS",cursive;color: #FF0000;}
+#showimage{position:absolute; visibility:hidden; border:1px solid gray;}
+#dragbar{cursor:pointer; background-color:#EFEFEF; min-width:100px;}
+#dragbar #closetext{font-weight:bold; color:#000000; font-family:"Comic Sans MS",cursive; margin-right: 10px;}
+#caption{color:black;font-size:14px;font-family:Arial, Helvetica, sans-serif;}
+#maintab{height:100%;width:100%;}
+#copyright{text-align:center;font-family:sans-serif;font-size:10pt;}

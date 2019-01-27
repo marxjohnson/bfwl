@@ -1,0 +1,32 @@
+a {cursor:url("images/acursor.ani");color:#0000FF;}
+a:visited {color:#0000FF;}
+a:hover {color:#00CCFF;}
+body {scrollbar-face-color:#66CCFF;scrollbar-arrow-color:#0000FF;scrollbar-track-color:#66CCFF;scrollbar-shadow-color:#0000FF;scrollbar-highlight-color:#C0FFFF;scrollbar-3dlight-color:#C0FFFF;background-color:#66CCFF;cursor: url("images/cursor.ani");}
+img {border: 0cm;}
+.main {text-align: center;vertical-align: top;}
+.menu {text-align: center;}
+p {font-family: arial;font-size: 12pt; color:#000000;}
+ul {font-family: arial;font-size: 12pt; color:#000000;}
+h1 {font-family: Copperplate gothic light;font-size: 20pt; color: #000000;}
+h2 {font-family: MS Sans Serif;Font-Size: 14pt;color: #A3A3A3;}
+.u {text-decoration: underline;}
+.left {text-align: left;}
+.fpa {color: #CC33FF;}
+.bpa {color: #FF66FF;}
+.zig {all-your-base: belong_to_us;}
+.lba {color: #0033FF;}
+.sga {color: #00CC00;}
+.narr {font-weight: bold;color: #FFCC99;}
+.capt {color: #999999;}
+.alf {color: #FF9933;}
+.bob {color: #9966FF;}
+.burt {color: #FF3333;}
+.deli {font-style: oblique;color: #339966;}
+.paul {color: #996600;}
+.top {font-size: 10pt;font-family: "arial";}
+.sst {font-size: 72pt;font-family: "comic sans MS";color: #FF0000;}
+#showimage{position:absolute; visibility:hidden; border:1px solid gray;}
+#dragbar{cursor:hand; cursor:pointer; background-color:#EFEFEF; min-width:100px;}
+#dragbar #closetext{font-weight:bold; color:#000000; font:"Comic Sans MS"; margin-right: 10px;}
+#caption{color:black;font-size:14px;font-family:Arial, Helvetica, sans-serif;}
+#copyright{text-align: center; position:absolute; bottom: 5px; font-size:8pt; font-family: arial;}
