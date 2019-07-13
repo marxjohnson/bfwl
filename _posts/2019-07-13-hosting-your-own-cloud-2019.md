@@ -10,6 +10,8 @@ image: https://barrenfrozenwasteland.com/images/hosting-your-own-cloud.png
 ---
 It's been a long time since [I first wrote about self hosting "cloud" services](/2011/07/self-hosted-cloud/) to avoid reliance on third party companies that harvest your data. Things have moved on a lot since then, so I thought it was about time to write about my current set-up.
 
+![A photo of my presenting my "Hosting your own cloud" talk at Oggcamp 2011](/images/hosting-your-own-cloud.png)
+
 ## Hardware
 I'm still running the same [HP Proliant Microserver](https://barrenfrozenwasteland.com/2011/07/hp-proliant-microserver-review/) that I have for years. I've upgraded the RAM and added an extra gigabit ethernet interface.  The big change is how I handle my storage.
 
