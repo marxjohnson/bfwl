@@ -16,3 +16,5 @@ github_username:  marxjohnson
 
 # Build settings
 markdown: kramdown
+plugins:
+ - jekyll-seo-tag
