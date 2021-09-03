@@ -1,3 +1,8 @@
+User-agent: Twitterbot
+Disallow:
+
+User-agent: TelegramBot
+Disallow:
+
 User-agent: *
 Disallow: /
-
