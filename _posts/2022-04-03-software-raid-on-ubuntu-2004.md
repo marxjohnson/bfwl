@@ -1,7 +1,7 @@
 ---
 id: 348
 title: Software RAID on Ubuntu 20.04
-date: 2022-04-03T21:00:00+00:00
+date: 2022-04-03T20:00:00+01:00
 author: mark
 layout: post
 guid: https://barrenfrozenwasteland.com/348
