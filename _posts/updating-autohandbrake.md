@@ -6,7 +6,7 @@ author: mark
 layout: post
 guid: https://barrenfrozenwasteland.com/350
 permalink: /2022/11/updating-autohandbrake
-image: https://barrenfrozenwasteland.com/images/pillars.jpg
+image: https://barrenfrozenwasteland.com/wp-content/uploads/2017/08/autohb2.png
 ---
 
 [A few years ago](https://barrenfrozenwasteland.com/2017/08/autohandbrake-dvd-ripping-wizard/), I was ripping a large collection of DVDs, but I found the
@@ -15,7 +15,7 @@ easier, I wrote [AutoHandbrake](https://github.com/marxjohnson/autohandbrake), a
 titles (likely a set of episodes), then assists with naming and numbering the resulting files. The heavy lifting is done by 
 [HandBrakeCLI](https://handbrake.fr/docs/en/latest/cli/cli-options.html), which reads, rips and encodes the videos.
 
-![Pillars of Eternity in Steam Deck library](/images/pillars.jpg)
+![Auto Handbrake displaying a list of DVD titles to rip](/wp-content/uploads/2017/08/autohb2.png)
 
 Since I wrote the tool, things have moved on a bit. DVD manufacturers often employ various tricks to bamboozle rippers: adding dozens of tiny titles,
 duplicate titles, putting titles in strange orders, or other tricks to make it hard to tell which titles you want to rip. At the same time, the rising
@@ -32,6 +32,8 @@ or a set of episodes (if multiple files), and use HandBrakeCLI to encode them as
 As well as fixing a few bugs on the way, I discovered that `gdialog` which I use to provide GUI dialogs has been replaced with a wrapper for 
 [Zenity](https://help.gnome.org/users/zenity/3.32/), a similar tool that doesn't interface with the rdialog gem quite so nicely. I hope to find 
 time to improve this, probably by detecting if we're in a graphical environment and using a Ruby Zenity gem instead.
+
+I also found that HandBrake is now using Flatpak as its primary means of distribution on Linux. This meant modifying the commands use to rip and encode titles. While it will still support using the `HandBrakeCLI` command however it is installed, it will prefer to use the flatpak using `flatpak run --command=HandBrakeCLI fr.handbrake.ghb`, unless you specifically tell it not to with `--no-flatpak`.
 
 You can find AutoHandbrake on my [GitHub page](https://github.com/marxjohnson), and I will mention future developments on 
 [Mastodon](https://octodon.social/@marxjohnson).
