@@ -14,6 +14,11 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
+  # Scheduled runs to enable and disable CSS naked day
+  schedule:
+    - cron: '0 0 9 4 *'
+    - cron: '0 0 10 4 *'
+
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
