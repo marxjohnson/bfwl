@@ -5,7 +5,10 @@
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  {% capture current_date %}{{ "now" | date: "%-d %B" }}{% endcapture %}
+  {% unless current_date == "9 April" %}
+    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  {% endunless %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link rel="me" href="https://indieweb.social/@marxjohnson">
   {% seo %}
