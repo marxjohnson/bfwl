@@ -4,4 +4,6 @@ I first discovered Bruce Dickinson's solo work by way of Sack Trick, a group for
 
 It was late 2023 when the Skunkworks Facebook group first heard rumblings of The Mandrake Project, a new solo album from Bruce and long-time collaborator Roy Z. As soon as the tour was announced, I jumped at the chance. The tickets seemed pricey, but for my first (and probably last) chance to see a Bruce solo show? It was worth a bit over the odds. The venue was to be The Kentish Town Forum, a smallish venue I'd been to many times before.
 
+The set opened with, in my opinion, the only choice for such a comeback. Accident of Birth, the title track of Bruce's fourth album. The refrain of "Welcome home, it's been too long, we've missed you" was a sentiment shared by everyone in the room. I had expected what followed to largely consist of new songs, with a few classics thrown in for good measure. While I wouldn't have minded this, I was pleasantly surprised that this wasn't the case.
+
 
