@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+</head>
+<body>
+    <video id="video" src="necrodancer.webm"></video>
+    <script>
+        document.getElementById('video').addEventListener('timeupdate', (e) => {
+            console.log("e.timeStamp: " + e.timeStamp);
+        });
+    </script>
+</body>
+</html>
